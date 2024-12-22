@@ -1,16 +1,16 @@
 ---
 layout: home
-title: "AC215: MLOps, LLMOps & AIOps - Productionizing AI Systems"
+title: "E115: MLOps, LLMOps & AIOps - Productionizing AI Systems"
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: "AC215: MLOps & LLMOps Course"
+  name: "E115: MLOps & LLMOps Course"
   description: "Learn MLOps, LLMOps, and AIOps fundamentals. Master production AI systems, LLM deployment, and machine learning operations at Harvard."
   keywords: "MLOps, LLMOps, AIOps, machine learning operations, LLM deployment, AI systems, production AI"
 ---
 
-# **MLOps & LLMOps: Production AI Systems** - AC215
+# **MLOps & LLMOps: Production AI Systems** - E115
 {:.no_toc}
 
 ## Table of contents
@@ -23,7 +23,7 @@ seo:
 
 ## Course Introduction
 
-In today's AI-driven world, building a robust deep learning model is only half the journey. The real challenge often lies in bringing this model to life in the form of an application that's scalable, maintainable, and ready for real-world deployment. Welcome to AC215: Productionizing AI (Machine Learning Operations), where we will traverse the complex landscape of Machine Learning Operations, with a special focus on Large Language Models (LLMs). This course has been meticulously curated to provide a holistic understanding of the complete deep learning workflow, from refining your models to deploying them in production environments.
+In today's AI-driven world, building a robust deep learning model is only half the journey. The real challenge often lies in bringing this model to life in the form of an application that's scalable, maintainable, and ready for real-world deployment. Welcome to E115: Productionizing AI (Machine Learning Operations), where we will traverse the complex landscape of Machine Learning Operations, with a special focus on Large Language Models (LLMs). This course has been meticulously curated to provide a holistic understanding of the complete deep learning workflow, from refining your models to deploying them in production environments.
 
 We will dive deep into topics like containerization, cloud functions, data pipelines, and advanced training workflows, with specific emphasis on LLMs. You will learn how to utilize LLM APIs effectively, host APIs, fine-tune LLMs for specific tasks, adapt them to various domains, and build applications around them. Our objective is not only to help you grasp these concepts but also to empower you to build and deploy scalable AI applications. We will delve into the particular intricacies of LLMs and their applications in real-world scenarios.
 
@@ -156,16 +156,16 @@ The heart of this course is experiential learning. We fervently believe that you
 
 | Milestone                                                    | Weight |
 | ------------------------------------------------------------ | ------ |
-| [MS1](https://harvard-iacs.github.io/2024-AC215/milestone1/) | 4     |
-| [MS2](https://harvard-iacs.github.io/2024-AC215/milestone2/) | 10    |
-| [MS3](https://harvard-iacs.github.io/2024-AC215/milestone3/) | 25   |
-| [MS4](https://harvard-iacs.github.io/2024-AC215/milestone4/) | 14    |
-| [MS5](https://harvard-iacs.github.io/2024-AC215/milestone5/) | 35    |
-| [HW1](https://harvard-iacs.github.io/2024-AC215/HW1/) | 4    |
-| [HW2](https://harvard-iacs.github.io/2024-AC215/HW2/) | 4    |
-| [HW3](https://harvard-iacs.github.io/2024-AC215/HW3/) | 4    |
+| [MS1](https://harvard-iacs.github.io/2024-E115/milestone1/) | 4     |
+| [MS2](https://harvard-iacs.github.io/2024-E115/milestone2/) | 10    |
+| [MS3](https://harvard-iacs.github.io/2024-E115/milestone3/) | 25   |
+| [MS4](https://harvard-iacs.github.io/2024-E115/milestone4/) | 14    |
+| [MS5](https://harvard-iacs.github.io/2024-E115/milestone5/) | 35    |
+| [HW1](https://harvard-iacs.github.io/2024-E115/HW1/) | 4    |
+| [HW2](https://harvard-iacs.github.io/2024-E115/HW2/) | 4    |
+| [HW3](https://harvard-iacs.github.io/2024-E115/HW3/) | 4    |
 
-For more information about the projects and milestones, you can either click the links provided above or visit the [project page](https://harvard-iacs.github.io/2024-AC215/projects/).
+For more information about the projects and milestones, you can either click the links provided above or visit the [project page](https://harvard-iacs.github.io/2024-E115/projects/).
 
 
 ## Course Policies  
@@ -175,7 +175,7 @@ For more information about the projects and milestones, you can either click the
 
    - **ED Forum:** Post questions related to course content, or technical issues on the ED forum. This encourages peer learning and allows teaching staff to address common concerns. We regularly monitor the forum to provide guidance.
    - **Office Hours:** Attend office hours if you need personalized assistance or in-depth explanations.
-   - **Teaching Staff Helpline:** For matters specific to the teaching staff, please send your queries to ac215.2024@gmail.com.
+   - **Teaching Staff Helpline:** For matters specific to the teaching staff, please send your queries to E115.2024@gmail.com.
    - **Email the Instructor:** For private or individual concerns, please feel free to directly email the instructor.
 
 2. **Deadline Policy:**
