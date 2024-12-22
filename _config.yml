@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: E115 
-tagline: E115  - Fall 2024
-description: E115 - Fall 2024
+tagline: E115  - Fall 2025
+description: E115 - Fall 2025
 author: Rashmi Banthia
 # baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
 # url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
@@ -33,7 +33,7 @@ aux_links:
   Ed:
     - 'https://edstem.org/us/courses/58478/discussion/'
   E115 on GitHub:
-    - 'https://github.com/Harvard-IACS/2024-E115'
+    - 'https://github.com/Harvard-IACS/2025-E115'
 footer_content:
 
 # Collections for website data
