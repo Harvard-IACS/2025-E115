@@ -33,9 +33,8 @@ Whether you are an AI enthusiast wanting to understand the intricacies of Machin
 
 ## Lectures
 
-- **Location:** SEC 1.321/Winokur, 150 Western Ave, Boston
 
-- **Meeting Time:** Tuesday 12:45 PM - 02:00 PM; Thursday 12:45 PM - 02:00 PM
+- **Meeting Time:** Tuesday 6:30 - 8:30 PM and Thursday 6:30 - 8:30 PM  via zoom. 
 
   
 
@@ -51,15 +50,18 @@ We have designed an in-depth curriculum to ensure a comprehensive understanding 
 
 1. **Introduction:** 
    - Begin with an understanding of the importance of AI-Ops and how it fits in the broader AI and software development ecosystem.
-1. **LLM Topics:** 
-   - Large Language Models (LLMs) have led to many new tools and agents that students will use in their projects. In these lectures, we'll look at some of these tools, such as LangChain, LamaIndex, and API calls. We'll also explore RAGS and AI agents, which make it easy to work with LLMs.
+
 2. **Virtual Environments and Virtual Machines:** 
    - Delve into the foundations of isolated software environments, their importance in AI development, and how virtual machines offer a layer of abstraction over physical hardware.
 3. **Containers:** 
    - Understand the concept of containerization using tools like Docker, and how they differ from virtual machines.
+
+1. **LLM Topics:** 
+   - Large Language Models (LLMs) have led to many new tools and agents that students will use in their projects. In these lectures, we'll look at some of these tools, such as LangChain, LamaIndex, and API calls. We'll also explore RAGS and AI agents, which make it easy to work with LLMs.
+
 4. **Data Pipelines, & Cloud Storage:** 
    
-   - Learn core data management techniques including ETL and data versioning. Learn to leverage TF Data and TF Records, PyTorch's Dataset and DataLoader for efficient data handling. Also we will learn how cloud storage solutions fit into the AI-Ops ecosystem.solutions. Explore specialized tools for managing large-scale datasets for computer vision and language models. 
+   - Learn core data management techniques including ETL and data versioning. Also we will learn how cloud storage solutions fit into the AI-Ops ecosystem.solutions. Explore specialized tools for managing large-scale datasets for computer vision and language models. 
      ​
 8. **Advanced Training Workflows:** 
    - We will look into techniques of advanced training workflows, covering experiment tracking with tools like Weights & Biases, leveraging multi-GPU setups for accelerated training, exploring serverless training options using Vertex AI, and fine-tuning large language models (LLMs) . 
@@ -72,7 +74,10 @@ We have designed an in-depth curriculum to ensure a comprehensive understanding 
     ​
 12. **APIs & Frontend:** 
        - Learn about RESTful APIs to serve your models and design user interfaces for seamless user interactions.
-    ​
+    
+13. **CI/CD:** 
+      - Continuous Integration (CI) and Continuous Deployment (CD) are critical practices in modern software development, especially within AI-Ops. This section will cover the principles of CI/CD, including automated testing, integration, and deployment pipelines. You'll learn how to set up CI/CD workflows using platforms like GitHub Actions ensuring that your AI models and applications are robust, tested, and reliably deployed to production environments.
+
 13. **Scaling (k8):** 
        - Delve into Kubernetes, its significance in deploying containerized applications, and understand how to scale your applications to cater to millions of users.
     ​
@@ -91,7 +96,7 @@ To ensure a seamless learning experience and to make the most of this course, pa
 1. **Programming Proficiency in Python:** 
    - A strong command over Python's basic constructs, including functions, classes, and modules. Familiarity with libraries like NumPy,  Pandas, Matplotlib is essential, as they form the backbone of many data manipulation tasks in AI.
    ​
-2. **Deep Learning Framework - Tensorflow:** 
+2. **Deep Learning Framework - Tensorflow or pyTorch:** 
    - A working knowledge of the TensorFlow (or PyTorch) framework is crucial, as many topics will delve into its functionalities and methods. Understanding TensorFlow's basic operations, data handling, and model building mechanisms will be invaluable.
    ​
 3. **Basic Shell Commands:** 
@@ -135,7 +140,7 @@ In the dynamic realm of AI and AI-Ops, hands-on experience is paramount. This co
 - **Unleash Your Creativity:** Whether you're driven by a start-up vision,  by research lab innovations, or inspired by a personal hobby, this is your platform to bring that idea to life. 
 
 **2. A Guided Demonstration by Pavlos:**
--  We, the teaching team, will undertake a project that Pavlos    [proposes](http://formaggio.me) throughout the semester. This serves as a demonstration and reference point. 
+-  We, the teaching team, will undertake a project that Pavlos  [proposes](http://formaggio.me) throughout the semester. This serves as a demonstration and reference point. 
   
 - Each week will spotlight a different facet of Pavlos' project development. This structured showcase offers students a practical insight of course concepts.
   
@@ -156,16 +161,16 @@ The heart of this course is experiential learning. We fervently believe that you
 
 | Milestone                                                    | Weight |
 | ------------------------------------------------------------ | ------ |
-| [MS1](https://harvard-iacs.github.io/2024-E115/milestone1/) | 4     |
-| [MS2](https://harvard-iacs.github.io/2024-E115/milestone2/) | 10    |
-| [MS3](https://harvard-iacs.github.io/2024-E115/milestone3/) | 25   |
-| [MS4](https://harvard-iacs.github.io/2024-E115/milestone4/) | 14    |
-| [MS5](https://harvard-iacs.github.io/2024-E115/milestone5/) | 35    |
-| [HW1](https://harvard-iacs.github.io/2024-E115/HW1/) | 4    |
-| [HW2](https://harvard-iacs.github.io/2024-E115/HW2/) | 4    |
-| [HW3](https://harvard-iacs.github.io/2024-E115/HW3/) | 4    |
+| [MS1](https://harvard-iacs.github.io/2025-E115/milestone1/) | 4     |
+| [MS2](https://harvard-iacs.github.io/2025-E115/milestone2/) | 10    |
+| [MS3](https://harvard-iacs.github.io/2025-E115/milestone3/) | 25   |
+| [MS4](https://harvard-iacs.github.io/2025-E115/milestone4/) | 14    |
+| [MS5](https://harvard-iacs.github.io/2025-E115/milestone5/) | 35    |
+| [HW1](https://harvard-iacs.github.io/2025-E115/HW1/) | 4    |
+| [HW2](https://harvard-iacs.github.io/2025-E115/HW2/) | 4    |
+| [HW3](https://harvard-iacs.github.io/2025-E115/HW3/) | 4    |
 
-For more information about the projects and milestones, you can either click the links provided above or visit the [project page](https://harvard-iacs.github.io/2024-E115/projects/).
+For more information about the projects and milestones, you can either click the links provided above or visit the [project page](https://harvard-iacs.github.io/2025-E115/projects/).
 
 
 ## Course Policies  
@@ -175,7 +180,7 @@ For more information about the projects and milestones, you can either click the
 
    - **ED Forum:** Post questions related to course content, or technical issues on the ED forum. This encourages peer learning and allows teaching staff to address common concerns. We regularly monitor the forum to provide guidance.
    - **Office Hours:** Attend office hours if you need personalized assistance or in-depth explanations.
-   - **Teaching Staff Helpline:** For matters specific to the teaching staff, please send your queries to E115.2024@gmail.com.
+   - **Teaching Staff Helpline:** For matters specific to the teaching staff, please send your queries to E115.2025@gmail.com.
    - **Email the Instructor:** For private or individual concerns, please feel free to directly email the instructor.
 
 2. **Deadline Policy:**
