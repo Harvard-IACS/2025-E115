@@ -9,8 +9,14 @@ nav_order: 1
 
 Overall schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTbcn25ZbO8Q7hTe2gAPcAgkdBVWhzjll5WEN3nzQarXCDZl5Ujg-KdF_Lf2WW32w/pubhtml?gid=1824717664&single=true).
  <!-- and calendar [here](/assets/images/AC215Schedule.svg). -->
+ 
 
-<!-- ... existing code ... -->
+<style>
+    table {
+        font-size: 0.9em; /* Adjust the size as needed */
+    }
+</style>
+ 
 
 | Lecture Number | Date  | Topic | Link |
 | -------------- | ----- | ----- | ---- |
@@ -36,6 +42,8 @@ Overall schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2P
 | Lecture 20     | 4/22  | Deployment: Ansible | [View](../assets/lectures/lecture19/L19_ansible_operations.pdf) |
 | Lecture 21     | 4/24  | Scaling: Kubernetes | [View](../assets/lectures/lecture20/L20_kubernetes_operations_scaling.pdf) |
 | Lecture 22     | 4/29  | Final deployment and review | [View](../assets/lectures/lecture21/L21_operations_automation.pdf) |
+
+</details>
 
  
 
