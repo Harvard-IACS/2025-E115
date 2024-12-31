@@ -10,7 +10,7 @@ nav_order: 1
 Overall schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTbcn25ZbO8Q7hTe2gAPcAgkdBVWhzjll5WEN3nzQarXCDZl5Ujg-KdF_Lf2WW32w/pubhtml?gid=1824717664&single=true).
  <!-- and calendar [here](/assets/images/AC215Schedule.svg). -->
 
- [Lecture 1: Introduction](../assets/lectures/lecture1/L01_introduction.pdf)  
+ [Lecture 1: Introduction](https://drive.google.com/file/d/1A3rBefwwdzMtcGhD62haK87ZvHBxXjCl/view?usp=drivesdk)  
 
 [Lecture 2: Virtual Enviroments and Virtual Machines](../assets/lectures/lecture2/L02_virtual_machines_virtual_environments.pdf) 
 
