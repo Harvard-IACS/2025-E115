@@ -7,7 +7,8 @@ nav_order: 1
 
 # Schedule and Calendar
 
-Overall schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTbcn25ZbO8Q7hTe2gAPcAgkdBVWhzjll5WEN3nzQarXCDZl5Ujg-KdF_Lf2WW32w/pubhtml?gid=1824717664&single=true) and calendar [here](/assets/images/AC215Schedule.svg).
+Overall schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTbcn25ZbO8Q7hTe2gAPcAgkdBVWhzjll5WEN3nzQarXCDZl5Ujg-KdF_Lf2WW32w/pubhtml?gid=1824717664&single=true).
+ <!-- and calendar [here](/assets/images/AC215Schedule.svg). -->
 
  [Lecture 1: Introduction](../assets/lectures/lecture1/L01_introduction.pdf)  
 
@@ -50,11 +51,11 @@ Overall schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2P
 
 [Lecture 19: CI/CD I](../assets/lectures/lecture16/L16_ContinuousIntegration.pdf)
  
-[Lecture 20: Ansible](../assets/lectures/lecture19/L19_ansible_operations.pdf)
+[Lecture 20: Deployment: Ansible ](../assets/lectures/lecture19/L19_ansible_operations.pdf)
 
+[Lecture 21: Scaling: Kubernetes](../assets/lectures/lecture20/L20_kubernetes_operations_scaling.pdf)
 
-
-
+[Lecture 22: Final: CI/CD releases](../assets/lectures/lecture21/L21_operations_automation.pdf)
 
 
 <!-- {% for module in site.modules %}
