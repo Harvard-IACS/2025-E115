@@ -9,6 +9,8 @@ nav_order: 1
 
 Overall schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTbcn25ZbO8Q7hTe2gAPcAgkdBVWhzjll5WEN3nzQarXCDZl5Ujg-KdF_Lf2WW32w/pubhtml?gid=1824717664&single=true) and calendar [here](/assets/images/AC215Schedule.svg).
 
+ 
+  : [Lecture 1](../assets/lectures/lecture1/L01_introduction.pdf) ,  &nbsp;  [Setup & Installation](https://docs.google.com/document/d/1ixys_vzy5msA1oqRc3-YDKxt-nhSSSv3at1z0qQk8-I/edit?usp=drive_link)
 
 {% for module in site.modules %}
 {{ module }}
