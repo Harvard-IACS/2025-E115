@@ -9,8 +9,19 @@ nav_order: 1
 
 Overall schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTbcn25ZbO8Q7hTe2gAPcAgkdBVWhzjll5WEN3nzQarXCDZl5Ujg-KdF_Lf2WW32w/pubhtml?gid=1824717664&single=true) and calendar [here](/assets/images/AC215Schedule.svg).
 
- 
-  : [Lecture 1](../assets/lectures/lecture1/L01_introduction.pdf) ,  &nbsp;  [Setup & Installation](https://docs.google.com/document/d/1ixys_vzy5msA1oqRc3-YDKxt-nhSSSv3at1z0qQk8-I/edit?usp=drive_link)
+Introduction: [Lecture 1](../assets/lectures/lecture1/L01_introduction.pdf) ,  &nbsp;  [Setup & Installation](https://docs.google.com/document/d/1ixys_vzy5msA1oqRc3-YDKxt-nhSSSv3at1z0qQk8-I/edit?usp=drive_link)
+
+Virtual Enviroments and Virtual Machines: [Lecture 2](../assets/lectures/lecture2/L02_virtual_machines_virtual_environments.pdf) 
+
+Containers I: [Lecture 3](../assets/lectures/lecture3/L03_containers_part1.pdf)
+    
+Containers II: [Lecture 4](../assets/lectures/lecture4/L04_containers_part2.pdf) &nbsp; 
+  
+Container Workflow: [Lecture 5](../assets/lectures/lecture5/L05_container_workflow.pdf)
+
+Data Labeling, Data Versioning: [Lecture 6](../assets/lectures/lecture6/L06_data_labeling_data_version.pdf)
+
+
 
 {% for module in site.modules %}
 {{ module }}
