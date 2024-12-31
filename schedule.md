@@ -7,7 +7,7 @@ nav_order: 1
 
 # Schedule and Calendar
 
-Overall schedule can be found [here](/assets/images/ContentOutline.pdf) and calendar [here](/assets/images/AC215Schedule.svg).
+Overall schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTbcn25ZbO8Q7hTe2gAPcAgkdBVWhzjll5WEN3nzQarXCDZl5Ujg-KdF_Lf2WW32w/pubhtml?gid=1824717664&single=true) and calendar [here](/assets/images/AC215Schedule.svg).
 
 
 {% for module in site.modules %}
