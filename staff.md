@@ -41,7 +41,7 @@ nav_order: 5
 
 ## Contact 
 
-For administrative or logistical questions, please e-mail class Helpline at [E115.2025@gmail.com](mailto:E115.2025@gmail.com) 
+For administrative or logistical questions, please e-mail class Helpline at [e115spring2025@gmail.com](mailto:e115spring2025@gmail.com) 
 
 ## Office Hours 
 
