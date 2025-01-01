@@ -14,10 +14,7 @@ nav_order: 5
 {{ staffer }}
 {% endfor %}
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor2' %}
-{% for staffer in instructors %}
-{{ staffer }}
-{% endfor %}
+
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
@@ -44,7 +41,7 @@ nav_order: 5
 
 ## Contact 
 
-For administrative or logistical questions, please e-mail class Helpline at [ac215.2024@gmail.com](mailto:ac215.2024@gmail.com) 
+For administrative or logistical questions, please e-mail class Helpline at [E115.2025@gmail.com](mailto:E115.2025@gmail.com) 
 
 ## Office Hours 
 
