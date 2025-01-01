@@ -86,13 +86,12 @@ We have designed an in-depth curriculum to ensure a comprehensive understanding 
 
 9. **Frontend Development:** 
 
-   Design user interfaces for seamless user interactions with your AI models, using React. 
-
+   Design user interfaces to facilitate seamless interactions with your AI models, utilizing ReactJS. 
 1. **CI/CD:** 
 
    Continuous Integration (CI) and Continuous Deployment (CD) are critical practices in modern software development, especially within AI-Ops. This section will cover the principles of CI/CD, including automated testing, integration, and deployment pipelines. You'll learn how to set up CI/CD workflows using platforms like GitHub Actions ensuring that your AI models and applications are robust, tested, and reliably deployed to production environments.
 
-13. **Scaling (k8):** 
+2. **Scaling (k8):** 
 
    Delve into Kubernetes, its significance in deploying containerized applications, and understand how to scale your applications to cater to millions of users.
     ​
@@ -112,7 +111,7 @@ To ensure a seamless learning experience and to make the most of this course, pa
    - A strong command over Python's basic constructs, including functions, classes, and modules. Familiarity with libraries like NumPy,  Pandas, Matplotlib is essential, as they form the backbone of many data manipulation tasks in AI.
    ​
 2. **Deep Learning Framework - Tensorflow or pyTorch:** 
-   - A working knowledge of the TensorFlow (or PyTorch) framework is crucial, as many topics will delve into its functionalities and methods. Understanding TensorFlow's basic operations, data handling, and model building mechanisms will be invaluable.
+   - A working knowledge of the TensorFlow or PyTorch framework is crucial, as many topics will go into its functionalities and methods. Understanding TensorFlow's/pyTorch's basic operations, data handling, and model building mechanisms will be invaluable.
    ​
 3. **Basic Shell Commands:** 
    - Comfortability in navigating the command-line interface (CLI), executing shell commands, and performing basic file operations are foundational for many AI-Ops tasks.
@@ -194,13 +193,16 @@ For more information about the projects and milestones, you can either click the
 1. **Getting Help:**
 
    - **ED Forum:** Post questions related to course content, or technical issues on the ED forum. This encourages peer learning and allows teaching staff to address common concerns. We regularly monitor the forum to provide guidance.
-   - **Office Hours:** Attend office hours if you need personalized assistance or in-depth explanations.
-   - **Teaching Staff Helpline:** For matters specific to the teaching staff, please send your queries to E115.2025@gmail.com.
+   - **Teaching Staff Helpline:** For matters specific to the teaching staff, please send your queries to e115spring2025@gmail.com.
    - **Email the Instructor:** For private or individual concerns, please feel free to directly email the instructor.
 
 2. **Deadline Policy:**
 
-   Consistent and timely completion of assignments is imperative in this course. All course milestones must be submitted by 9:00 PM EST on the specified due dates. You can gain 1 extra late day for every 5 lecture attendances. You are allowed a maximum of two late days for any single assignment.  For Group project milestones, at least one of the group member must have late days available. 
+   Consistent and timely completion of assignments is imperative in this course. All course milestones must be submitted by 9:00 PM EST on the specified due dates. 
+   You are allocated 6 late days throughout the semester to accommodate unforeseen circumstances such as illness or overlapping deadlines. Please note that these 6 days represent the full extent of flexibility offered, and no additional late days will be granted.
+   <!-- You can gain 1 extra late day for every 5 lecture attendances.  -->
+   You are allowed a maximum of three late days for any single assignment.  
+   For Group project milestones, at least all of the group member must have late days available.
 
    **Final Milestone / Midterms:** It's important to note that no extensions will be permitted for the final milestone / midterms, under any circumstances. Therefore, careful time management is strongly encouraged to ensure that you can meet this critical deadline.
 
