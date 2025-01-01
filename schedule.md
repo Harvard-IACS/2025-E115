@@ -43,7 +43,7 @@ Overall schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2P
 | Lecture 21     | 4/24  | Scaling: Kubernetes | [View](../assets/lectures/lecture20/L20_kubernetes_operations_scaling.pdf) |
 | Lecture 22     | 4/29  | Final deployment and review | [View](../assets/lectures/lecture21/L21_operations_automation.pdf) |
 
-</details>
+
 
  
 
