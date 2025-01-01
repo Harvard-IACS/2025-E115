@@ -8,7 +8,7 @@ nav_order: 6
 
 **Is there a class GitHub repository?**
 
-Indeed. You can find it at [https://github.com/Harvard-IACS/2024-E115](https://github.com/Harvard-IACS/2024-E115).
+Indeed. You can find it at [https://github.com/Harvard-IACS/2024-E115](https://github.com/Harvard-IACS/2025-E115).
 
 **Is it necessary for me to be present for the live lectures?**
 
