@@ -25,7 +25,7 @@ seo:
 
 In today's AI-driven world, building a robust deep learning model is only half the journey. The real challenge often lies in bringing this model to life in the form of an application that's scalable, maintainable, and ready for real-world deployment. Welcome to E115: Productionizing AI (Machine Learning Operations), where we will traverse the complex landscape of Machine Learning Operations, with a special focus on Large Language Models (LLMs). This course has been meticulously curated to provide a holistic understanding of the complete deep learning workflow, from refining your models to deploying them in production environments.
 
-We will dive deep into topics like containerization, cloud functions, data pipelines, and advanced training workflows, with specific emphasis on LLMs. You will learn how to utilize LLM APIs effectively, host APIs, fine-tune LLMs for specific tasks, adapt them to various domains, and build applications around them. Our objective is not only to help you grasp these concepts but also to empower you to build and deploy scalable AI applications. We will delve into the particular intricacies of LLMs and their applications in real-world scenarios.
+We will dive deep into topics like containerization, cloud functions, data pipelines, and advanced training workflows, with specific emphasis on LLMs. You will learn how to utilize LLM APIs effectively, host APIs, fine-tune LLMs for specific tasks, adapt them to various domains, and build applications around them. Our objective is not only to help you grasp these concepts but also to enable you to build and deploy scalable AI applications. We will examine the particular intricacies of LLMs and their applications in real-world scenarios.
 
 Whether you are an AI enthusiast wanting to understand the intricacies of Machine Learning Operations or a seasoned professional aiming to fortify your knowledge, this course promises a comprehensive exploration of the production side of AI, with a spotlight on LLM applications and productionizing.
 
@@ -40,46 +40,61 @@ Whether you are an AI enthusiast wanting to understand the intricacies of Machin
 
 ## Technologies and Platforms
 
-We will demonstrate most ideas using TensorFlow and some using PyTorch,  utilizing the Google Cloud Platform (GCP). Additionally, tutorials will be provided for AWS for reference purposes. 
+We will demonstrate most ideas using TensorFlow/PyTorch,  utilizing the Google Cloud Platform (GCP). Additionally, tutorials will be provided for AWS for reference purposes. 
 
 
 ## Course Topics Overview
 
-We have designed an in-depth curriculum to ensure a comprehensive understanding of AI-Ops. Here's a closer look at the topics we'll be covering (see  [here](/assets/images/ContentOutline.pdf) for a full list of topics):
+We have designed an in-depth curriculum to ensure a comprehensive understanding of AI-Ops. Here's a closer look at the topics we'll be covering (see  [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTbcn25ZbO8Q7hTe2gAPcAgkdBVWhzjll5WEN3nzQarXCDZl5Ujg-KdF_Lf2WW32w/pubhtml?gid=1824717664&single=true) for a full list of topics):
 
 
 1. **Introduction:** 
-   - Begin with an understanding of the importance of AI-Ops and how it fits in the broader AI and software development ecosystem.
+   
+   Begin with an understanding of the importance of AI-Ops and how it fits in the broader AI and software development ecosystem.
 
 2. **Virtual Environments and Virtual Machines:** 
-   - Delve into the foundations of isolated software environments, their importance in AI development, and how virtual machines offer a layer of abstraction over physical hardware.
-3. **Containers:** 
-   - Understand the concept of containerization using tools like Docker, and how they differ from virtual machines.
 
-1. **LLM Topics:** 
-   - Large Language Models (LLMs) have led to many new tools and agents that students will use in their projects. In these lectures, we'll look at some of these tools, such as LangChain, LamaIndex, and API calls. We'll also explore RAGS and AI agents, which make it easy to work with LLMs.
+   Explore the foundations of isolated software environments, their importance in AI development, and how virtual machines provide a layer of abstraction over physical hardware.
+
+3. **Containers:** 
+
+   Understand the concept of containerization using tools like Docker, and how they differ from virtual machines.
+
+4. **LLM Topics:** 
+
+   Large Language Models (LLMs) have led to many new tools and agents that students will use in their projects. We'll explore the process of fine-tuning LLMs for specific tasks and how to integrate them into various domains. We'll also look at making API calls and working with AI agents, which make it easy to work with LLMs.
 
 4. **Data Pipelines, & Cloud Storage:** 
    
-   - Learn core data management techniques including ETL and data versioning. Also we will learn how cloud storage solutions fit into the AI-Ops ecosystem.solutions. Explore specialized tools for managing large-scale datasets for computer vision and language models. 
+   Learn core data management techniques including ETL and data versioning. Also we will learn how cloud storage solutions fit into the AI-Ops ecosystem solutions. Explore specialized tools for managing large-scale datasets for computer vision and language models. 
      ​
-8. **Advanced Training Workflows:** 
-   - We will look into techniques of advanced training workflows, covering experiment tracking with tools like Weights & Biases, leveraging multi-GPU setups for accelerated training, exploring serverless training options using Vertex AI, and fine-tuning large language models (LLMs) . 
+5. **Advanced Training Workflows:** 
+
+   We will look into techniques of advanced training workflows, covering experiment tracking with tools like Weights & Biases, leveraging multi-GPU setups for accelerated training, exploring serverless training options using Vertex AI, and fine-tuning large language models. 
    
-9. **Advanced Inference Workflows:** 
-   - Understand the nuances of model optimization techniques like distillation, quantization, compression, and Low-Rank Approximation (LORA). We then move to model deployment, hosting, and serving large language models (LLMs) effectively. Explore post-deployment monitoring for model performance, data drift detection, and testing strategie.  Cloud Functions, Cloud Run, Kubeflow, and Vertex AI Pipelines.
-     ​
-11. **App Design, Setup, and Code Organization:** 
-       - Best practices in designing user-centric AI applications, setting up your development environment, and organizing code for scalability and maintainability.
-    ​
-12. **APIs & Frontend:** 
-       - Learn about RESTful APIs to serve your models and design user interfaces for seamless user interactions.
-    
-13. **CI/CD:** 
-      - Continuous Integration (CI) and Continuous Deployment (CD) are critical practices in modern software development, especially within AI-Ops. This section will cover the principles of CI/CD, including automated testing, integration, and deployment pipelines. You'll learn how to set up CI/CD workflows using platforms like GitHub Actions ensuring that your AI models and applications are robust, tested, and reliably deployed to production environments.
+6. **Advanced Inference Workflows:** 
+
+   Understand the nuances of model optimization techniques like distillation, quantization, compression, and Low-Rank Approximation (LORA). Next, we focus on model deployment, hosting, and serving large language models (LLMs) effectively. Explore post-deployment monitoring for model performance and testing strategies. Learn about deploying scalable AI solutions using Cloud Functions, Cloud Run, Kubeflow, and Vertex AI Pipelines.
+   ​
+7. **App Design, Setup, and Code Organization:** 
+   
+   Best practices in designing user-centric AI applications, setting up your development environment, and organizing code for scalability and maintainability.
+​
+8. **APIs:** 
+
+   Learn about RESTful APIs to serve your models and facilitate communication between the client and server.
+
+9. **Frontend Development:** 
+
+   Design user interfaces for seamless user interactions with your AI models, using React. 
+
+1. **CI/CD:** 
+
+   Continuous Integration (CI) and Continuous Deployment (CD) are critical practices in modern software development, especially within AI-Ops. This section will cover the principles of CI/CD, including automated testing, integration, and deployment pipelines. You'll learn how to set up CI/CD workflows using platforms like GitHub Actions ensuring that your AI models and applications are robust, tested, and reliably deployed to production environments.
 
 13. **Scaling (k8):** 
-       - Delve into Kubernetes, its significance in deploying containerized applications, and understand how to scale your applications to cater to millions of users.
+
+   Delve into Kubernetes, its significance in deploying containerized applications, and understand how to scale your applications to cater to millions of users.
     ​
 
 
