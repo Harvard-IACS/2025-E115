@@ -9,8 +9,8 @@ nav_order: 1
 
 **Key dates:**
 
-- project proposals due: Sep 20th
-- staff feedback: Sep 25th
+- project proposals due: Feb 20th
+- staff feedback: Feb 25th
 
 ### Objectives:
 
@@ -127,7 +127,7 @@ Statements of Work that do not include both a well-defined scope and a prelimina
 
 
  **Deliverables:**
- Submit a PDF of your proposal on canvas by 9:00 PM EST on **Sep 20th.**
+ Submit a PDF of your proposal on canvas  
 
 
 

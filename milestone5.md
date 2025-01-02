@@ -6,9 +6,9 @@ nav_order: 5
 ---
 
 # Milestone 5: Final Project Delivery
-**Due Date:** December 11th
+**Due Date:**  May 10
 
-**Showcase:** December 9th, 9:00–11:00 AM
+<!-- **Showcase:** December 9th, 9:00–11:00 AM -->
 
 ---
 ## Overview

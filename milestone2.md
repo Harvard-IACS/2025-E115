@@ -16,7 +16,7 @@ By the end of this milestone, teams will have built foundational elements for th
 
 ### Key dates:
 
-- Due date: Oct 18th
+- Due date:  Mar 13
 
 ### [Template Repository](https://github.com/E1152024/E1152024_template/tree/milestone2)
 

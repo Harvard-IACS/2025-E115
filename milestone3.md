@@ -20,7 +20,7 @@ For this milestone, you will present your AI application in the form of an **inv
 
 
 ### **Key Dates**
-- **Presentation Date:** Thursday, October 31st.
+- **Presentation Date:**  Mar 27 
     Details on the schedule and location will be posted on **Ed**.
 
   **Slides submission:** Please submit slides by noon on 10/31 via Canvas.
