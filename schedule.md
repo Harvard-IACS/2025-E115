@@ -20,8 +20,8 @@ Overall schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2P
 
 | Lecture Number | Date  | Topic | Link |
 | -------------- | ----- | ----- | ---- |
-| Lecture 1      | 1/28  | Introduction | [View](https://drive.google.com/file/d/1A3rBefwwdzMtcGhD62haK87ZvHBxXjCl/view?usp=drivesdk) |
-| Lecture 2      | 1/30  | Virtual Environments and Virtual Machines | [View](../assets/lectures/lecture2/L02_virtual_machines_virtual_environments.pdf) |
+| Lecture 1      | 1/28  | Introduction | [View](https://drive.google.com/file/d/1Q9lifyRQ5uQnzLPsTGcNjK5lFWLZvJOB/view?usp=sharing) |
+| Lecture 2      | 1/30  | Virtual Environments and Virtual Machines | [View](https://drive.google.com/file/d/15kcxeADzvL5knlDoxc9OOU3biHUmwKW3/view?usp=sharing) |
 | Lecture 3      | 2/4   | Containers I | [View](../assets/lectures/lecture3/L03_containers_part1.pdf) |
 | Lecture 4      | 2/6   | Containers II | [View](../assets/lectures/lecture4/L04_containers_part2.pdf) |
 | Lecture 5      | 2/18  | Containers III | [View](../assets/lectures/lecture5/L05_container_workflow.pdf) |
