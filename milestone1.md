@@ -26,7 +26,7 @@ Allowing you to propose your own projects,  will enhance your engagement and lea
 You may use the Ed platform to find your teammates. Alternatively, you may form teams independently.
 
 *Team Registration:*  
-Once you have finalized your team, please enter your team name and the names of team members in [this shared spreadsheet](https://docs.google.com/spreadsheets/d/1B8JePYtWLP-2dqOEwneW-gmasHBlxn03/edit?usp=drive_link&ouid=109490521694988502723&rtpof=true&sd=true).
+Once you have finalized your team, please enter your team name and the names of team members in [this shared spreadsheet](https://docs.google.com/spreadsheets/d/1V81Snx_ZhXVA9V7Hkl6jBLFl1rAT53c4/edit?usp=sharing&ouid=113094128082842199613&rtpof=true&sd=true).
 
 #### Step 2: Submit Statement of Work (Project Proposal)
 
