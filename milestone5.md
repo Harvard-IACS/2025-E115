@@ -60,7 +60,8 @@ The final milestone focuses on three key areas:
     - Live demo of the application in action.
     - Challenges faced and solutions implemented.
   - Submit the video in **MP4 format** with a minimum resolution of 720p.
-- **Blog Post (See [Ed for more details](https://edstem.org/us/courses/58478/discussion/5770637))**:
+- **Blog Post** 
+ <!-- (See [Ed for more details](https://edstem.org/us/courses/58478/discussion/5770637))**: -->
   - Write a **600–800 word Medium blog post** summarizing your project for a general audience. The post should highlight the problem, solution, technical approach, and impact.
   - Include visuals or diagrams where appropriate.
 - **Self and Peer Review Forms**:
@@ -68,7 +69,7 @@ The final milestone focuses on three key areas:
 
 
 
-### 4. Showcase (Dec 9th)
+<!-- ### 4. Showcase (Dec 9th)
 - **Event Format**:
   - Each team will have **45 minutes** during the live showcase to present their project.
   - Participants will visit your booth to interact with your application and learn about your implementation.
@@ -81,7 +82,7 @@ The final milestone focuses on three key areas:
   A committee will evaluate all projects during the showcase to select the **Best of Show**. Evaluation criteria include:
   - Innovation and impact.
   - Technical complexity and robustness.
-  - Clarity of presentation and engagement with participants.
+  - Clarity of presentation and engagement with participants. -->
 
 
 ## Submission Instructions
@@ -94,4 +95,4 @@ The final milestone focuses on three key areas:
 2. **Documentation (25%)**: README and technical report are clear, complete, and easy to follow.
 3. **Presentation and Showcase (40%)**:
    - Video and blog post effectively communicate the project’s value and technical details.
-   - Engagement during the live showcase demonstrates clarity and understanding.
+   <!-- - Engagement during the live showcase demonstrates clarity and understanding. -->
