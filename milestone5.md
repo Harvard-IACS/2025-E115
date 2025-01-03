@@ -15,7 +15,7 @@ nav_order: 5
 The final milestone focuses on three key areas:
 1. Production-ready deployment with Kubernetes and Ansible.
 2. Project demonstration and documentation.
-3. Public communication of results through a live showcase.
+<!-- 3. Public communication of results through a live showcase. -->
 
 ---
 
