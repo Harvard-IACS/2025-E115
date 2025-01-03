@@ -93,6 +93,7 @@ The final milestone focuses on three key areas:
 ## Evaluation Criteria
 1. **GitHub (35%)**: Technical Depth, Content, Clarity, Coding Style
 2. **Documentation (25%)**: README and technical report are clear, complete, and easy to follow.
-3. **Presentation and Showcase (40%)**:
+<!-- 3. **Presentation and Showcase (40%)**: -->
+3. **Presentation (40%)**:
    - Video and blog post effectively communicate the project’s value and technical details.
    <!-- - Engagement during the live showcase demonstrates clarity and understanding. -->
