@@ -24,16 +24,16 @@ Overall schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2P
 | Lecture 2      | 1/30  | Virtual Environments and Virtual Machines | [View](https://drive.google.com/file/d/15kcxeADzvL5knlDoxc9OOU3biHUmwKW3/view?usp=sharing) |
 | Lecture 3      | 2/4   | Containers I | [View](https://drive.google.com/file/d/1LFBvGzHOaNWrLplmXuwm-JcWmQKFWCKn/view?usp=sharing) |
 | Lecture 4      | 2/6   | Containers II | [View](https://drive.google.com/file/d/1gFrwzlhKfryXs1r7SzvgM8OEqqaBxgHg/view?usp=sharing) |
-| Lecture 5      | 2/18  | Containers III | [View](../assets/lectures/lecture5/L05_container_workflow.pdf) |
-| Lecture 6      | 2/20  | Data Labeling and Data Versioning | [View](../assets/lectures/lecture6/L06_data_labeling_data_version.pdf) |
+| Lecture 5      | 2/18  | Containers III | [View](https://drive.google.com/file/d/1Doxs_vRQhvk_fo3WjSjGwRYdV8z-p_Jx/view?usp=sharing) |
+| Lecture 6      | 2/20  | Data Labeling and Data Versioning | [View](https://drive.google.com/file/d/12k1avN5va4J6RhGyT7iLvYRpVC79g_au/view?usp=sharing) |
 | Lecture 7      | 2/25  | LLM tools and agents: Instruction Based GPT and RAG | [View](../assets/lectures/lecture7/L07-LLM1.pdf) |
 | Lecture 8      | 2/27  | LLM tools and agents: RAG II | [View](../assets/lectures/lecture8/L08-LLM2.pdf) |
 | Lecture 9      | 3/4   | LLM fine tuning and LORA - I | [View](../assets/lectures/lecture9/L09-FineTuning.pdf) |
 | Lecture 10     | 3/6   | LLM fine tuning and LORA - II | [View](../assets/lectures/lecture9/L09-FineTuning.pdf) |
-| Lecture 11     | 3/11  | Model Optimization: Distillation, Compression | [View](../assets/lectures/lecture11/L11_compression_techniques.pdf) |
-| Lecture 12     | 3/13  | Advanced training workflows: experiment tracking (W&B), multi GPU, serverless training (Vertex AI) | [View](../assets/lectures/lecture12/L12_advanced_training.pdf) |
-| Lecture 13     | 3/25  | Serverless Deployment: Cloud Functions, Cloud Run | [View](../assets/lectures/lecture13/L13_ml_cloud_function_cloud_run.pdf) |
-| Lecture 14     | 3/27  | ML Workflows with Vertex AI | [View](../assets/lectures/lecture15/L15_vertex_ai_ml_workflow_management.pdf) |
+| Lecture 11     | 3/11  | Model Optimization: Distillation, Compression | [View](https://drive.google.com/file/d/1FUWNjv1N5SYuSAKUy7kQ4XBMDgLU56Mj/view?usp=sharing) |
+| Lecture 12     | 3/13  | Advanced training workflows: experiment tracking (W&B), multi GPU, serverless training (Vertex AI) | [View](https://drive.google.com/file/d/1LGih1wib8bc7z0vGXjNw-Ca6gH6id_WV/view?usp=sharing) |
+| Lecture 13     | 3/25  | Serverless Deployment: Cloud Functions, Cloud Run | [View](https://drive.google.com/file/d/1_hHFarrcAzSlEg-6FXFOfUXEpXxfnBEP/view?usp=sharing) |
+| Lecture 14     | 3/27  | ML Workflows with Vertex AI | [View](https://drive.google.com/file/d/1J_kEP_rLOovoGtspYV95wL23IUv0png1/view?usp=sharing) |
 | Lecture 15     | 4/3   | App design, setup and code organization | [View](../assets/lectures/lecture18/L18_app_development_implement.pdf) |
 | Lecture 16     | 4/8   | APIs | [View](../assets/lectures/lecture18/L18_app_development_implement.pdf) |
 | Lecture 17     | 4/10  | Frontend | [View](../assets/lectures/lecture18/L18_app_development_implement.pdf) |
