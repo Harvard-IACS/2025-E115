@@ -34,14 +34,14 @@ Overall schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2P
 | Lecture 12     | 3/13  | Advanced training workflows: experiment tracking (W&B), multi GPU, serverless training (Vertex AI) | [View](https://drive.google.com/file/d/1LGih1wib8bc7z0vGXjNw-Ca6gH6id_WV/view?usp=sharing) |
 | Lecture 13     | 3/25  | Serverless Deployment: Cloud Functions, Cloud Run | [View](https://drive.google.com/file/d/1_hHFarrcAzSlEg-6FXFOfUXEpXxfnBEP/view?usp=sharing) |
 | Lecture 14     | 3/27  | ML Workflows with Vertex AI | [View](https://drive.google.com/file/d/1J_kEP_rLOovoGtspYV95wL23IUv0png1/view?usp=sharing) |
-| Lecture 15     | 4/3   | App design, setup and code organization | [View](../assets/lectures/lecture18/L18_app_development_implement.pdf) |
-| Lecture 16     | 4/8   | APIs | [View](../assets/lectures/lecture18/L18_app_development_implement.pdf) |
-| Lecture 17     | 4/10  | Frontend | [View](../assets/lectures/lecture18/L18_app_development_implement.pdf) |
-| Lecture 18     | 4/15  | Automating Software Development: CI/CD with GitHub Actions and other tools I | [View](../assets/lectures/lecture16/L16_ContinuousIntegration.pdf) |
-| Lecture 19     | 4/17  | Automating Software Development: CI/CD with GitHub Actions and other tools II | [View](../assets/lectures/lecture16/L16_ContinuousIntegration.pdf) |
-| Lecture 20     | 4/22  | Deployment: Ansible | [View](../assets/lectures/lecture19/L19_ansible_operations.pdf) |
-| Lecture 21     | 4/24  | Scaling: Kubernetes | [View](../assets/lectures/lecture20/L20_kubernetes_operations_scaling.pdf) |
-| Lecture 22     | 4/29  | Final deployment and review | [View](../assets/lectures/lecture21/L21_operations_automation.pdf) |
+| Lecture 15     | 4/3   | App design, setup and code organization | [View](https://drive.google.com/file/d/1dRtNwUtKIMw4aXurLna3ykGbfabyc78v/view?usp=drive_link) |
+| Lecture 16     | 4/8   | APIs | [View](https://drive.google.com/file/d/1WtQi2dcWZrQYwTR4K9Ey0l1bBubi8mIu/view?usp=drive_link) |
+| Lecture 17     | 4/10  | Frontend | [View](https://drive.google.com/file/d/1UOfjuJBHRYQ6YFwmIfnEkmzearCJ4XRz/view?usp=drive_link) |
+| Lecture 18     | 4/15  | Automating Software Development: CI/CD with GitHub Actions and other tools I | [View](https://drive.google.com/file/d/1iDEjmZJDqZOGf3rbhJqJraSj3ZZzMTY1/view?usp=drive_link) |
+| Lecture 19     | 4/17  | Automating Software Development: CI/CD with GitHub Actions and other tools II | [View](https://drive.google.com/file/d/1l2SMuD7cjuIyPvg2ZRnn8BYsbG7_QrsH/view?usp=drive_link) |
+| Lecture 20     | 4/22  | Deployment: Ansible | [View](https://drive.google.com/file/d/1rHohBf1XpOIjb6ot5tZu-pZq2Fhxlv_f/view?usp=drive_link) |
+| Lecture 21     | 4/24  | Scaling: Kubernetes | [View](https://drive.google.com/file/d/1DsifYZV4eUEey_XCOpa5m1mVKBL6ED_Q/view?usp=drive_link) |
+| Lecture 22     | 4/29  | Final deployment and review | [View](https://drive.google.com/file/d/1b95V-O02EmJRf3cn52QU6Wl8QCcin03h/view?usp=drive_link) |
 
 
 
