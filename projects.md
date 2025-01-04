@@ -13,10 +13,10 @@ Project Milestones - Overview
 | **Milestones** | **Brief Description**                                        | **Due Date** | **Grade %** |
 | -------------- | ------------------------------------------------------------ | ------------ | ----------- |
 | **MS1**        | *Project Proposals, Team formation -*  Students submit project proposals and form teams. Staff reviews proposals and return feedback and project approvals by 02/25. | **2/20**    | **4**       |
-| **MS2**        | *MLOps Infrastructure & Advanced Training Workflows -* Building atomic containers, versioned data pipelines, and scalable computing solutions.<br />*Scalable and Moduler Computing Infrastructure -* Extending advanced training workflows with Tensorflow, experiment tracking, multi-GPU training and serverless training. | **3/13**    | **10**      |
-| **MS3**        | **Midterm Presentation** - Present your AI application as an investor pitch, covering the problem, value proposition, scalability, future development, and technical details, with slides and code submitted via GitHub by Mar 31.. | **3/27**    | **25**      |
-| **MS4**        | *Full-Stack Development -* Design a user-friendly frontend developed around working API calls and design documents. | **4/17**    | **14**      |
-| **MS5**        | **Final Presentation and Deliverables** - Students will finish by working through deployment and scaling, documenting the project through a published Medium post, a 6-minute video presentation, and a well-organized GitHub repository. | **5/10**    | **35**      |
+| **MS2**        | *MLOps Infrastructure & Advanced Training Workflows -* Build atomic containers, implement versioned data pipelines, and develop scalable computing solutions for efficient deployment.Scalable and Modular Computing Infrastructure – Enhance training workflows with TensorFlow, experiment tracking, multi-GPU support, and serverless training environments. | **3/13**    | **10**      |
+| **MS3**        | *Midterm Presentation* - Present your AI application as an investor pitch, covering the problem, value proposition, scalability, future development, and technical details, with slides and code submitted via GitHub by Mar 27. | **3/27**    | **25**      |
+| **MS4**        | *Full-Stack Development -*  Develop, test, and deploy a user-facing application integrating all previous components, with clean code, robust APIs, CI setup, and automated testing for real-world usage. | **4/17**    | **14**      |
+| **MS5**        | *Final Presentation and Deliverables* - Students will complete the project by deploying and scaling it, documenting the work through a Medium blog post, a 6-minute video presentation, and a well-structured GitHub repository.   | **5/10**    | **35**      |
 
 
 Guidelines, submission instruction for milestones (and medium page) for future project events will be posted as they approach.
