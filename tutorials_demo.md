@@ -10,7 +10,7 @@ nav_order: 2
 # In Class Tutorials / Demos for GCP (and AWS)
 
 ## Tutorial 1: Create Simple Translate App - No Docker, No Pipenv
-- **Lecture**: [L02](../assets/lectures/lecture2/L02_virtual_machines_virtual_environments.pdf)
+- **Lecture**: [L02](schedule#lecture-2-virtual-machines--virtual-environments)
 - **Description**: A simple translation app built without using Docker or Pipenv.
 - **GCP GitHub URL**: [Install App on VM Manually (T1)](https://github.com/dlops-io/simple-translate?tab=readme-ov-file#installing-app-on-vm-manually-t1)
 - **AWS GitHub URL**: [Install App on VM Manually (T1) - AWS](https://github.com/dlops-io/simple-translate-aws?tab=readme-ov-file#installing-app-on-vm-manually-t1)
