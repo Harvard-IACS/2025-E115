@@ -10,7 +10,7 @@ nav_order: 2
 # In Class Tutorials / Demos for GCP (and AWS)
 
 ## Tutorial 1: Create Simple Translate App - No Docker, No Pipenv
-- **Lecture**: [L02](schedule#lecture-2-virtual-machines--virtual-environments)
+- **Lecture**: [L02](schedule) 
 - **Description**: A simple translation app built without using Docker or Pipenv.
 - **GCP GitHub URL**: [Install App on VM Manually (T1)](https://github.com/dlops-io/simple-translate?tab=readme-ov-file#installing-app-on-vm-manually-t1)
 - **AWS GitHub URL**: [Install App on VM Manually (T1) - AWS](https://github.com/dlops-io/simple-translate-aws?tab=readme-ov-file#installing-app-on-vm-manually-t1)
@@ -18,7 +18,7 @@ nav_order: 2
 ---
 
 ## Tutorial 2: Create Simple Translate App with Pipenv, No Docker
-- **Lecture**: [L02](../assets/lectures/lecture2/L02_virtual_machines_virtual_environments.pdf)
+- **Lecture**: [L02](schedule)
 - **Description**: A translation app using Pipenv, without Docker.
 - **GCP GitHub URL**: [Install App on VM using Pipenv (T2)](https://github.com/dlops-io/simple-translate?tab=readme-ov-file#installing-app-on-vm-using-pipenv-t2)
 - **AWS GitHub URL**: [Install App on VM using Pipenv (T2) - AWS](https://github.com/dlops-io/simple-translate-aws?tab=readme-ov-file#installing-app-on-vm-using-pipenv-t2)
@@ -26,7 +26,7 @@ nav_order: 2
 ---
 
 ## Tutorial 3: Create Simple Translate App with Docker, Push Image to Docker Hub
-- **Lecture**: [L03](../assets/lectures/lecture3/L03_containers_part1.pdf)
+- **Lecture**: [L03](schedule)
 - **Description**: Build a simple translation app, containerize it with Docker, and push the image to Docker Hub.
 - **GCP GitHub URL**: [Develop App using Containers (T3)](https://github.com/dlops-io/simple-translate?tab=readme-ov-file#developing-app-using-containers-t3)
 - **AWS GitHub URL**: [Develop App using Containers (T3) - AWS](https://github.com/dlops-io/simple-translate-aws?tab=readme-ov-file#developing-app-using-containers-t3)
@@ -34,7 +34,7 @@ nav_order: 2
 ---
 
 ## Tutorial 4: Run App in VM using Docker
-- **Lecture**: [L03](../assets/lectures/lecture3/L03_containers_part1.pdf)
+- **Lecture**: [L03](schedule)
 - **Description**: A continuation of the Docker tutorial, running the containerized app in a VM.
 - **GCP GitHub URL**: [Run App on VM using Docker (T4)](https://github.com/dlops-io/simple-translate?tab=readme-ov-file#running-app-on-vm-using-docker-t4)
 - **AWS GitHub URL**: [Run App on VM using Docker (T4) - AWS](https://github.com/dlops-io/simple-translate-aws?tab=readme-ov-file#running-app-on-vm-using-docker-t4)
