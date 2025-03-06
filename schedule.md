@@ -27,7 +27,7 @@ Overall schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2P
 | Lecture 5      | 2/18  | Containers III | [View](https://drive.google.com/file/d/1Doxs_vRQhvk_fo3WjSjGwRYdV8z-p_Jx/view?usp=sharing) |
 | Lecture 6      | 2/20  | Data Labeling and Data Versioning | [View](https://drive.google.com/file/d/12k1avN5va4J6RhGyT7iLvYRpVC79g_au/view?usp=sharing) |
 | Lecture 7      | 2/25  | LLM tools and agents: Instruction Based GPT and RAG | [View](../assets/lectures/lecture7/L07-LLM1.pdf) |
-| Lecture 8      | 2/27  | LLM tools and agents: RAG II | [View](../assets/lectures/lecture8/L08-LLM2.pdf) |
+| Lecture 8      | 2/27  | LLM tools and agents: RAG II | [View](../assets/lectures/lecture8/L08-LLM2.pdf) [Agents](../assets/lectures/lecture8/L08_Agents.pdf) |
 | Lecture 9      | 3/4   | LLM fine tuning and LORA - I | [View](../assets/lectures/lecture9/L09-FineTuning.pdf) |
 | Lecture 10     | 3/6   | LLM fine tuning and LORA - II | [View](../assets/lectures/lecture9/L09-FineTuning.pdf) |
 | Lecture 11     | 3/11  | Model Optimization: Distillation, Compression | [View](https://drive.google.com/file/d/1FUWNjv1N5SYuSAKUy7kQ4XBMDgLU56Mj/view?usp=sharing) |
