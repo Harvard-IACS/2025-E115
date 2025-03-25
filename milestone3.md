@@ -23,7 +23,7 @@ For this milestone, you will present your AI application in the form of an **inv
 - **Presentation Date:**  Mar 27 
     <!-- Details on the schedule and location will be posted on **Ed**. -->
     Details on the schedule will be posted on **Ed**.  
-  **Slides submission:** Please submit slides by noon on 3/27 via Canvas.
+  **Slides submission and/or GitHub Repo submission:** 9PM 3/27 via Canvas.
 
 
 ### **Presentation Requirements**
