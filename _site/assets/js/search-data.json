@@ -1,662 +1,536 @@
 {"0": {
-    "doc": "Project Showcase",
-    "title": "AC215 Project Showcase",
-    "content": "(December 9th 2024 - 9:00 AM - 11:00 AM) . | Description |   | . | 1. DecAide Our tool allows for celebrity stylists, people who need an efficient way to understand historical fashion references, to style their clients using clothing featured on high fashion runways. Our app takes images of outfits, identifies the year that each outfit most closely resembles, and provides recommendations and information to the user based off of that decade and its popular trends. | | . | 2. SnapChef An app that identifies dishes from images, generates detailed recipes, and tailors them to individual preferences and dietary needs could empower food enthusiasts to recreate dishes seen on social media or in restaurants effortlessly. | | . | 3. CareConverse CareConverse is an LLM-powered chatbot to surface personalized information on optimal chronic disease management. By utilizing a large language model (LLM) combined with Retrieval-Augmented Generation (RAG), CareConverse will deliver concise, pertinent context to patients looking for clarity, reassurance and direction on their disease experience, along with citations and links to relevant content. This approach ensures transparency and trust, as users can verify the information and further explore the literature. | | . | 4. Pourfect AI PourfectAI is a conversational chatbot bartender that blends expert mixology knowledge with the convenience of a personal recommendation system. PourfectAI suggests the perfect drink based on user preferences, mood, ingredients on hand, or even dietary needs—whether it’s a fresh mocktail or a classic cocktail with a twist. PourfectAI – where every pour is perfectly yours! | | . | 5. ClinIQ To develop a diagnostic medical assistant tool where clinicians can input symptoms/patient notes into a chatbot and receive possible diagnoses and recommended medications to guide faster, more accurate diagnoses. | | . | 6. EmpathOS Our project, EmpathOS, is a mental health chatbot providing immediate, confidential, and expert support for individuals facing mental health challenges. Leveraging fine-tuning and Retrieval-Augmented Generation (RAG) on Google Cloud, it delivers 24/7, evidence-based guidance, specifically tailored for groups such as teenagers and college students, ensuring scientifically grounded, context-aware responses. | | . | 7. 1nvestSense – LLM-powered stock advisor for GenZ investors 1nvestSense is an AI-powered application that leverages LLMs to deliver real-time, actionable insights from market news, tailored specifically for retail investors, particularly Gen Z. | | . | 8. CrimsonChat Computer Science graduate students enter Harvard expecting to be productive and have effortless access to resources, but they hit the obstacle of bureaucratic overhead. CrimsonChat addresses the problem through a friendly, 24/7 available assistant with comprehensive knowledge of departmental resources. For stressed students, CrimsonChat also offers 24/7 mental health support. | | . | 9. MoodSync Introducing a cutting-edge music recommendation tool designed to understand and enhance your listening experience. Simply share how you’re feeling and your favorite music elements, and our tool leverages AI to craft playlists that perfectly match your current emotional and musical appetite. | | . | 10. Priva-see Priva-see is your path to data privacy for any terms and conditions. Simply upload a set of terms and conditions and get a privacy grade along with a summary of key issues. Or input your privacy preferences and receive personalized app recommendations that meet your privacy needs. | | . | 11. SmartEats SmartEats is an innovative AI-powered application that analyzes food images, predicts disease risks, and provides personalized nutrition advice. By simply uploading a photo of their meal, users can get an estimate of nutritional components, calorie count, and tailored dietary suggestions. While designed for a broad audience, SmartEats is especially valuable for individuals with specific dietary needs - whether they’re looking to lose weight, track daily calories, optimize nutrition for fitness, or manage diet-related health risks. | | . | 12. Protein_Server This project aims to develop a user-friendly web application for researchers in protein research. An interactive chatbot will be built to answer general questions on protein structures, functions, and characteristics. A protein LM based tool will allow users to input protein sequences and receive protein function prediction, such as thermostability. | | . | 13. Capy Running Capy Running gives you full-control over your training without the need to get yet another app. We are an on-demand 24/7 AI-powered personal running coach that works by 1/10 of the cost of a normal coach and all through Whatsapp Messaging. With Capy Running, you get a personalized training schedule, reminders, performance recording and much more. | | . | 14. ByteBites We designed and developed an AI-powered recipe web app that processes shopping receipts to automatically detect purchased food items and suggest corresponding recipes. Users can also specify dietary preferences, such as vegan or gluten-free options. Additionally, we plan to integrate a nutrition tracking feature to enhance the functionality of our app. | | . | 15. SpiritMatch In general, getting started with cocktail making at home can be quite intimidating. There are a lot of things to keep in mind (such as drink ingredients, tools, garnishes, whether or not to add ice, etc.). Therefore, the aim of this project is to develop an application that can allow for users to rely on a virtual bartender, Eustace, who will easily generate cocktail recipe recommendations based on the user’s mood, situation, and/or household ingredients. With every interaction, users can expect a unique and thoughtful experience, where cocktail-making becomes both a creative journey and a delightful discovery, tailored just for them. | | . | 16. Yarn Master It’s really common to find crochet products we’d love to make ourselves, but finding clear, step-by-step instructions can be really challenging. Currently, there isn’t an AI-powered tool that can effectively generate meaningful crochet instructions. We came up with the idea of developing a deep learning model specifically designed for crochet products. Users would be able to upload pictures of crochet items they find interesting, and the model would generate detailed instructions for recreating those products. | | . | 17. Bloodwise Bloodwise provides users with easy explanations of lab test results based on the provided results and a symptom summary. The application suggests what the results could mean, and if abnormal, suggests lifestyle changes, specifying to consult with a physician as well. | | . | 18. Billionaire.ai Billionaire.ai is a professional, real-time financial advisor powered by advanced LLMs, delivering concise insights and rich visualizations tailored for investors of all levels. Transform your investment strategy with trusted data and expert recommendations in an instant. | | . | 19. Sales Mate We built an LLM/RAG-enabled customer sales rep training tool. Our product provides two main functions for sales training teams: a customer simulator that enables sales reps to practice initiating and closing sales conversations and a copilot knowledge helper that provides conversation advice in real-time. | | . | 20. Daily Meal Assistant Our project develop an app that serves as your personal meal assistant. This app recommends recipes based on the ingredients you have on hand, which you can simply upload via images. By combining Large Language Models (LLMs) with Retrieval-Augmented Generation (RAG) and dynamic API integrations, our app delivers insightful suggestions for both home cooking and dining experiences. Transform the way you eat with our smart, responsive meal assistant at your fingertips. | | . | 21. VeritasTrial This project aims to develop an AI-powered system that enables users to efficiently search and explore clinical trials within a database. The system will utilize a fine-tuned language model (LLM) to identify and retrieve the most relevant trials based on user queries. It will then allow users to interact with specific trials and provide accurate responses by leveraging both the fine-tuned model and structured clinical trial data stored in the database. | | . | 22. Tripee Tripee is an LLM-powered trip itinerary generator that optimizes routes and incorporates map visualization. By leveraging state-of-the-art fine-tuning and Retrieval-Augmented Generation, our solution generates thematic itineraries tailored to users’ specific needs, including city, duration, and type of trip, without the need for hosting large travel datasets. | | . | 23. Harvard Academia Atlas The Harvard Academia Atlas helps students navigate their academic journey by offering personalized course recommendations based on their backgrounds, interests, and goals. It suggests courses, explains their relevance to academic and career paths and helps create conflict-free schedules for easy management. | | . | 24. ECGuide Interpreting electrocardiograms (ECGs) is a critical skill for healthcare providers, yet ECG education has remained largely unchanged for over 50 years. ECGuide revolutionizes this learning experience by offering personalized, interactive ECG education. Users can upload an ECG, and our platform guides them through a detailed analysis, highlighting key diagnostic features and helping them build a deeper, more practical understanding of ECG interpretation. | | . | 25. Adversarial Playground Adversarial Playground is an app that enables users to investigate the consequences of adversarial attacks on image classification problems. Users are able to interact with the Adversarial Robustness Toolbox to perform preset attacks against models to demonstrate their efficacy while having the option to observe how these attacks can be mitigated. | | . | 26. AI4Good A large portion of any research is limited to academic journals and does not result in practical societal changes. The goal of this project is to close that divide by developing a platform that links AI research groups with organizations and associations that could gain from their research. With the help of Large Language Models (LLMs), we aim to discover academic papers that have the capacity to tackle societal issues, promoting valuable partnerships. | | . | 27. PrepPal PrepPal is an LLM-powered and sustainability-focused recipe assistant that removes the annoying aspects of cooking a meal: all the planning! Based on the user’s preferences and cooking time, PrepPal suggests exciting recipes that prioritize the usage of already available ingredients, thereby allowing the user to discover new meals effortlessly while reducing food waste at the same time! | | . | 28. Innit Innit is an immersive language learning app that focuses on giving users more practical language skills that are applicable to their daily lives. We track users’ language levels and we will automatically recommend them media every single day at their specific language level which they can interact with via features such as automated summarization and Q&amp;As. | | . | 29. PillRx PillRx is a Computer Vision app for detecting pills identity from images of pills, followed by a warning about potentially dangerous interaction with alcohol and the option to chat with a RAG-based LLM to learn more about the identified pill. | | . | 30. Fashion AI Fashion AI is an AI-powered fashion search platform, allowing users to conduct natural language-based search and styling recommendations without endless browsing. | | . | 31. gAIn gAIn is you automated health and fitness coach, providing expert opinions and suggestions about your health and fitness journey based on up-to-date research and your detailed fitness and activity history. We leverage a state-of-the art LLM for chat interactions with the coach, fine-tuned on health and fitness data, and supplemented with data on the user’s historical activity through RAG on data such as Strava history. | | . | 32. Burning Bush BurningBush is an AI-driven bushfire prediction and mitigation platform designed to safeguard ecosystems, property, and lives. By combining historical geospatial data and multispectral imagery from Sentinel-2, the system predicts bushfire risks in specific regions. Users can search for their property and assess fire probabilities that will allow them to develop timely mitigation plans. BurningBush empowers individuals and first responders to take proactive measures, reducing the devastating impacts of bushfires on vulnerable areas. | | . | 33. Reverie Reverie is an AI-powered knowledge exploration platform that redefines learning through intuitive navigation and dynamic pathways | | . | 34. Game, Set, Match Game, Set, Match is an online application that aims to predict the winner between two profession tennis opponents. The prediction model is trained on a large public data set of past matches and their results. | | . | 35. CarFever In this project, we aim to develop an application that can accurately identify the car model, make, and year from user-uploaded photos. | | . | 36. MediScribe MediScribe allows physicians to record conversations with their patients and generate an initial draft of an electronic medical record, which they can later review and edit. This essentially automates a time-intensive manual process and allows physicians to dedicate more time towards providing healthcare to their patients rather than recordkeeping. | | . | 37. Paper with Data Paper with Data is a search engine enabling scholars to search for papers with high relevance with the exact data variables they inputed. It aims to provide a fine-grained search logic to accelerate the research process. | | . ",
-    "url": "/ProjectShowcase/#ac215-project-showcase",
+    "doc": "E115: MLOps, LLMOps & AIOps - Productionizing AI Systems",
+    "title": "MLOps &amp; LLMOps: Production AI Systems - E115",
+    "content": " ",
+    "url": "/#mlops--llmops-production-ai-systems---e115",
     
-    "relUrl": "/ProjectShowcase/#ac215-project-showcase"
+    "relUrl": "/#mlops--llmops-production-ai-systems---e115"
   },"1": {
-    "doc": "Project Showcase",
-    "title": "Project Showcase",
-    "content": " ",
-    "url": "/ProjectShowcase/",
-    
-    "relUrl": "/ProjectShowcase/"
-  },"2": {
-    "doc": "AC215: MLOps, LLMOps & AIOps - Productionizing AI Systems",
-    "title": "MLOps &amp; LLMOps: Production AI Systems - AC215",
-    "content": " ",
-    "url": "/#mlops--llmops-production-ai-systems---ac215",
-    
-    "relUrl": "/#mlops--llmops-production-ai-systems---ac215"
-  },"3": {
-    "doc": "AC215: MLOps, LLMOps & AIOps - Productionizing AI Systems",
+    "doc": "E115: MLOps, LLMOps & AIOps - Productionizing AI Systems",
     "title": "Table of contents",
     "content": ". | Course Introduction | Lectures | Technologies and Platforms | Course Topics Overview | Prerequisites | Course Components | Grade Distribution | Course Policies | Policy on Usage of Publicly Available Class Material | Accessibility: | Inclusion and Belonging Statement | . ",
     "url": "/#table-of-contents",
     
     "relUrl": "/#table-of-contents"
-  },"4": {
-    "doc": "AC215: MLOps, LLMOps & AIOps - Productionizing AI Systems",
+  },"2": {
+    "doc": "E115: MLOps, LLMOps & AIOps - Productionizing AI Systems",
     "title": "Course Introduction",
-    "content": "In today’s AI-driven world, building a robust deep learning model is only half the journey. The real challenge often lies in bringing this model to life in the form of an application that’s scalable, maintainable, and ready for real-world deployment. Welcome to AC215: Productionizing AI (Machine Learning Operations), where we will traverse the complex landscape of Machine Learning Operations, with a special focus on Large Language Models (LLMs). This course has been meticulously curated to provide a holistic understanding of the complete deep learning workflow, from refining your models to deploying them in production environments. We will dive deep into topics like containerization, cloud functions, data pipelines, and advanced training workflows, with specific emphasis on LLMs. You will learn how to utilize LLM APIs effectively, host APIs, fine-tune LLMs for specific tasks, adapt them to various domains, and build applications around them. Our objective is not only to help you grasp these concepts but also to empower you to build and deploy scalable AI applications. We will delve into the particular intricacies of LLMs and their applications in real-world scenarios. Whether you are an AI enthusiast wanting to understand the intricacies of Machine Learning Operations or a seasoned professional aiming to fortify your knowledge, this course promises a comprehensive exploration of the production side of AI, with a spotlight on LLM applications and productionizing. ",
+    "content": "In today’s AI-driven world, building a robust deep learning model is only half the journey. The real challenge often lies in bringing this model to life in the form of an application that’s scalable, maintainable, and ready for real-world deployment. Welcome to E115: Productionizing AI (Machine Learning Operations), where we will traverse the complex landscape of Machine Learning Operations, with a special focus on Large Language Models (LLMs). This course has been meticulously curated to provide a holistic understanding of the complete deep learning workflow, from refining your models to deploying them in production environments. We will dive deep into topics like containerization, cloud functions, data pipelines, and advanced training workflows, with specific emphasis on LLMs. You will learn how to utilize LLM APIs effectively, host APIs, fine-tune LLMs for specific tasks, adapt them to various domains, and build applications around them. Our objective is not only to help you grasp these concepts but also to enable you to build and deploy scalable AI applications. We will examine the particular intricacies of LLMs and their applications in real-world scenarios. Whether you are an AI enthusiast wanting to understand the intricacies of Machine Learning Operations or a seasoned professional aiming to fortify your knowledge, this course promises a comprehensive exploration of the production side of AI, with a spotlight on LLM applications and productionizing. ",
     "url": "/#course-introduction",
     
     "relUrl": "/#course-introduction"
-  },"5": {
-    "doc": "AC215: MLOps, LLMOps & AIOps - Productionizing AI Systems",
+  },"3": {
+    "doc": "E115: MLOps, LLMOps & AIOps - Productionizing AI Systems",
     "title": "Lectures",
-    "content": ". | Location: SEC 1.321/Winokur, 150 Western Ave, Boston . | Meeting Time: Tuesday 12:45 PM - 02:00 PM; Thursday 12:45 PM - 02:00 PM . | . ",
+    "content": ". | Meeting Time: Tuesday 6:30 - 8:30 PM and Thursday 6:30 - 8:30 PM via zoom. | . ",
     "url": "/#lectures",
     
     "relUrl": "/#lectures"
-  },"6": {
-    "doc": "AC215: MLOps, LLMOps & AIOps - Productionizing AI Systems",
+  },"4": {
+    "doc": "E115: MLOps, LLMOps & AIOps - Productionizing AI Systems",
     "title": "Technologies and Platforms",
-    "content": "We will demonstrate most ideas using TensorFlow and some using PyTorch, utilizing the Google Cloud Platform (GCP). Additionally, tutorials will be provided for AWS for reference purposes. ",
+    "content": "We will demonstrate most ideas using TensorFlow/PyTorch, utilizing the Google Cloud Platform (GCP). Additionally, tutorials will be provided for AWS for reference purposes. ",
     "url": "/#technologies-and-platforms",
     
     "relUrl": "/#technologies-and-platforms"
-  },"7": {
-    "doc": "AC215: MLOps, LLMOps & AIOps - Productionizing AI Systems",
+  },"5": {
+    "doc": "E115: MLOps, LLMOps & AIOps - Productionizing AI Systems",
     "title": "Course Topics Overview",
-    "content": "We have designed an in-depth curriculum to ensure a comprehensive understanding of AI-Ops. Here’s a closer look at the topics we’ll be covering (see here for a full list of topics): . | Introduction: . | Begin with an understanding of the importance of AI-Ops and how it fits in the broader AI and software development ecosystem. | . | LLM Topics: . | Large Language Models (LLMs) have led to many new tools and agents that students will use in their projects. In these lectures, we’ll look at some of these tools, such as LangChain, LamaIndex, and API calls. We’ll also explore RAGS and AI agents, which make it easy to work with LLMs. | . | Virtual Environments and Virtual Machines: . | Delve into the foundations of isolated software environments, their importance in AI development, and how virtual machines offer a layer of abstraction over physical hardware. | . | Containers: . | Understand the concept of containerization using tools like Docker, and how they differ from virtual machines. | . | Data Pipelines, &amp; Cloud Storage: . | Learn core data management techniques including ETL and data versioning. Learn to leverage TF Data and TF Records, PyTorch’s Dataset and DataLoader for efficient data handling. Also we will learn how cloud storage solutions fit into the AI-Ops ecosystem.solutions. Explore specialized tools for managing large-scale datasets for computer vision and language models. ​ | . | Advanced Training Workflows: . | We will look into techniques of advanced training workflows, covering experiment tracking with tools like Weights &amp; Biases, leveraging multi-GPU setups for accelerated training, exploring serverless training options using Vertex AI, and fine-tuning large language models (LLMs) . | . | Advanced Inference Workflows: . | Understand the nuances of model optimization techniques like distillation, quantization, compression, and Low-Rank Approximation (LORA). We then move to model deployment, hosting, and serving large language models (LLMs) effectively. Explore post-deployment monitoring for model performance, data drift detection, and testing strategie. Cloud Functions, Cloud Run, Kubeflow, and Vertex AI Pipelines. ​ | . | App Design, Setup, and Code Organization: . | Best practices in designing user-centric AI applications, setting up your development environment, and organizing code for scalability and maintainability. ​ | . | APIs &amp; Frontend: . | Learn about RESTful APIs to serve your models and design user interfaces for seamless user interactions. ​ | . | Scaling (k8): . | Delve into Kubernetes, its significance in deploying containerized applications, and understand how to scale your applications to cater to millions of users. ​ | . | . As we journey through these topics, students will gain a holistic perspective, bridging the gap between model development and real-world deployment. With a blend of theory and practical exercises, this course ensures that by the end, you’re not just familiar with these concepts, but proficient in applying them. ​ . ",
+    "content": "We have designed an in-depth curriculum to ensure a comprehensive understanding of AI-Ops. Here’s a closer look at the topics we’ll be covering (see here for a full list of topics): . | Introduction: . Begin with an understanding of the importance of AI-Ops and how it fits in the broader AI and software development ecosystem. | Virtual Environments and Virtual Machines: . Explore the foundations of isolated software environments, their importance in AI development, and how virtual machines provide a layer of abstraction over physical hardware. | Containers: . Understand the concept of containerization using tools like Docker, and how they differ from virtual machines. | LLM Topics: . Large Language Models (LLMs) have led to many new tools and agents that students will use in their projects. We’ll explore the process of fine-tuning LLMs for specific tasks and how to integrate them into various domains. We’ll also look at making API calls and working with AI agents, which make it easy to work with LLMs. | Data Pipelines, &amp; Cloud Storage: . Learn core data management techniques including ETL and data versioning. Also we will learn how cloud storage solutions fit into the AI-Ops ecosystem solutions. Explore specialized tools for managing large-scale datasets for computer vision and language models. ​ . | Advanced Training Workflows: . We will look into techniques of advanced training workflows, covering experiment tracking with tools like Weights &amp; Biases, leveraging multi-GPU setups for accelerated training, exploring serverless training options using Vertex AI, and fine-tuning large language models. | Advanced Inference Workflows: . Understand the nuances of model optimization techniques like distillation, quantization, compression, and Low-Rank Approximation (LORA). Next, we focus on model deployment, hosting, and serving large language models (LLMs) effectively. Explore post-deployment monitoring for model performance and testing strategies. Learn about deploying scalable AI solutions using Cloud Functions, Cloud Run, Kubeflow, and Vertex AI Pipelines. ​ . | App Design, Setup, and Code Organization: . Best practices in designing user-centric AI applications, setting up your development environment, and organizing code for scalability and maintainability. ​ . | APIs: . Learn about RESTful APIs to serve your models and facilitate communication between the client and server. | Frontend Development: . Design user interfaces to facilitate seamless interactions with your AI models, utilizing ReactJS. | CI/CD: . Continuous Integration (CI) and Continuous Deployment (CD) are critical practices in modern software development, especially within AI-Ops. This section will cover the principles of CI/CD, including automated testing, integration, and deployment pipelines. You’ll learn how to set up CI/CD workflows using platforms like GitHub Actions ensuring that your AI models and applications are robust, tested, and reliably deployed to production environments. | Scaling (k8): . Delve into Kubernetes, its significance in deploying containerized applications, and understand how to scale your applications to cater to millions of users. ​ . | . As we journey through these topics, students will gain a holistic perspective, bridging the gap between model development and real-world deployment. With a blend of theory and practical exercises, this course ensures that by the end, you’re not just familiar with these concepts, but proficient in applying them. ​ . ",
     "url": "/#course-topics-overview",
     
     "relUrl": "/#course-topics-overview"
-  },"8": {
-    "doc": "AC215: MLOps, LLMOps & AIOps - Productionizing AI Systems",
+  },"6": {
+    "doc": "E115: MLOps, LLMOps & AIOps - Productionizing AI Systems",
     "title": "Prerequisites",
-    "content": "To ensure a seamless learning experience and to make the most of this course, participants are expected to come with a foundational knowledge in the following areas: ​ . | Programming Proficiency in Python: . | A strong command over Python’s basic constructs, including functions, classes, and modules. Familiarity with libraries like NumPy, Pandas, Matplotlib is essential, as they form the backbone of many data manipulation tasks in AI. ​ | . | Deep Learning Framework - Tensorflow: . | A working knowledge of the TensorFlow (or PyTorch) framework is crucial, as many topics will delve into its functionalities and methods. Understanding TensorFlow’s basic operations, data handling, and model building mechanisms will be invaluable. ​ | . | Basic Shell Commands: . | Comfortability in navigating the command-line interface (CLI), executing shell commands, and performing basic file operations are foundational for many AI-Ops tasks. ​ | . | Basic Data Structures: . | A good grasp of Python’s primary data structures, especially dictionaries and lists, will be instrumental in understanding and manipulating data. ​ | . | File I/O: . | Knowledge of basic file input/output operations in Python, including reading from and writing to files, is vital for tasks involving data storage and manipulation. ​ | . | General AI and ML Concepts: . | While this course is centered around AI-Ops, a basic understanding of AI and machine learning concepts, including what models are and how they are trained, will set the context for many advanced topics. | . | . It’s important to note that while prior knowledge in these areas will provide a solid foundation, the course has been structured to ensure gradual progression. Even if you’re not an expert in all of the prerequisites, a willingness to learn and engage actively in the course’s hands-on components will be crucial for success. If you find yourself struggling with some concepts, we encourage leveraging the course resources, attending office hours, and participating in peer discussions to reinforce your understanding. ​ . ",
+    "content": "To ensure a seamless learning experience and to make the most of this course, participants are expected to come with a foundational knowledge in the following areas: ​ . | Programming Proficiency in Python: . | A strong command over Python’s basic constructs, including functions, classes, and modules. Familiarity with libraries like NumPy, Pandas, Matplotlib is essential, as they form the backbone of many data manipulation tasks in AI. ​ | . | Deep Learning Framework - Tensorflow or pyTorch: . | A working knowledge of the TensorFlow or PyTorch framework is crucial, as many topics will go into its functionalities and methods. Understanding TensorFlow’s/pyTorch’s basic operations, data handling, and model building mechanisms will be invaluable. ​ | . | Basic Shell Commands: . | Comfortability in navigating the command-line interface (CLI), executing shell commands, and performing basic file operations are foundational for many AI-Ops tasks. ​ | . | Basic Data Structures: . | A good grasp of Python’s primary data structures, especially dictionaries and lists, will be instrumental in understanding and manipulating data. ​ | . | File I/O: . | Knowledge of basic file input/output operations in Python, including reading from and writing to files, is vital for tasks involving data storage and manipulation. ​ | . | General AI and ML Concepts: . | While this course is centered around AI-Ops, a basic understanding of AI and machine learning concepts, including what models are and how they are trained, will set the context for many advanced topics. | . | . It’s important to note that while prior knowledge in these areas will provide a solid foundation, the course has been structured to ensure gradual progression. Even if you’re not an expert in all of the prerequisites, a willingness to learn and engage actively in the course’s hands-on components will be crucial for success. If you find yourself struggling with some concepts, we encourage leveraging the course resources, attending office hours, and participating in peer discussions to reinforce your understanding. ​ . ",
     "url": "/#prerequisites",
     
     "relUrl": "/#prerequisites"
-  },"9": {
-    "doc": "AC215: MLOps, LLMOps & AIOps - Productionizing AI Systems",
+  },"7": {
+    "doc": "E115: MLOps, LLMOps & AIOps - Productionizing AI Systems",
     "title": "Course Components",
     "content": ". | Sessions: Structured lectures focusing on the core topics. | Office Hours: Dedicated time with your Teaching Fellow (TF) for questions, clarifications, or project guidance. | Individual Assignments (3): These assignments ensure you grasp key learning objectives. | Team Projects: Collaborate with classmates to build a fully functional AI application. | Discussion Forums: Engage in peer-to-peer learning, discussions, and knowledge sharing. | Supplementary Readings: To complement the topics covered in lectures and enrich your academic comprehension, a selection of readings has been curated. As this is an evolving field, the ability to continuously update your knowledge through independent reading is an integral part of the course. | . Team Projects: Project-Based Learning: Crafting Your Own AI Solutions . In the dynamic realm of AI and AI-Ops, hands-on experience is paramount. This course encourages each student to bring a unique perspective by working on self-conceived projects. Here’s what you need to know: . 1. Crafting Your AI Project: . | Students are expected to conceptualize and develop their own projects. While our teaching staff is here to provide ideas and guidance, the core objective is for each student to nurture and shape their original initiative. | By the end of the semester, the aim is to transform your idea into a fully functional web-app or mobile application. | Project Scope: Your project should incorporate some element of modeling, ensuring it aligns with the learning objectives of the course. Moreover, it is essential that every component of the project CAN be evaluable by our teaching staff. | Unleash Your Creativity: Whether you’re driven by a start-up vision, by research lab innovations, or inspired by a personal hobby, this is your platform to bring that idea to life. | . 2. A Guided Demonstration by Pavlos: . | We, the teaching team, will undertake a project that Pavlos proposes throughout the semester. This serves as a demonstration and reference point. | Each week will spotlight a different facet of Pavlos’ project development. This structured showcase offers students a practical insight of course concepts. | Parallelly, students will be prompted to integrate the week’s learnings into their projects, ensuring a steady progression towards their end goals. | . 3. Milestones and Assessment: . | The course will be punctuated with key milestones, designed to assess your project’s evolution and your grasp of the AI-Ops concepts. Details of these milestones will be shared in due course. | It’s imperative to understand that a significant portion of your grade hinges on these milestones. They are not just checkpoints but pivotal phases that contribute to your project’s holistic development and your learning journey. | . In Summation: . The heart of this course is experiential learning. We fervently believe that your ideas and paralleling them with structured guidance, we can equip you with the tangible skills essential in today’s AI-driven world. ",
     "url": "/#course-components",
     
     "relUrl": "/#course-components"
-  },"10": {
-    "doc": "AC215: MLOps, LLMOps & AIOps - Productionizing AI Systems",
+  },"8": {
+    "doc": "E115: MLOps, LLMOps & AIOps - Productionizing AI Systems",
     "title": "Grade Distribution",
     "content": "| Milestone | Weight | . | MS1 | 4 | . | MS2 | 10 | . | MS3 | 25 | . | MS4 | 14 | . | MS5 | 35 | . | HW1 | 4 | . | HW2 | 4 | . | HW3 | 4 | . For more information about the projects and milestones, you can either click the links provided above or visit the project page. ",
     "url": "/#grade-distribution",
     
     "relUrl": "/#grade-distribution"
-  },"11": {
-    "doc": "AC215: MLOps, LLMOps & AIOps - Productionizing AI Systems",
+  },"9": {
+    "doc": "E115: MLOps, LLMOps & AIOps - Productionizing AI Systems",
     "title": "Course Policies",
-    "content": ". | Getting Help: . | ED Forum: Post questions related to course content, or technical issues on the ED forum. This encourages peer learning and allows teaching staff to address common concerns. We regularly monitor the forum to provide guidance. | Office Hours: Attend office hours if you need personalized assistance or in-depth explanations. | Teaching Staff Helpline: For matters specific to the teaching staff, please send your queries to ac215.2024@gmail.com. | Email the Instructor: For private or individual concerns, please feel free to directly email the instructor. | . | Deadline Policy: . Consistent and timely completion of assignments is imperative in this course. All course milestones must be submitted by 9:00 PM EST on the specified due dates. You can gain 1 extra late day for every 5 lecture attendances. You are allowed a maximum of two late days for any single assignment. For Group project milestones, at least one of the group member must have late days available. Final Milestone / Midterms: It’s important to note that no extensions will be permitted for the final milestone / midterms, under any circumstances. Therefore, careful time management is strongly encouraged to ensure that you can meet this critical deadline. | Academic Honesty: . | This course places a strong emphasis on ethical behavior. Whether it’s ethically handling data or attributing the work of others, students are expected to maintain high standards of integrity. | Acceptable Behaviors: Discussing course materials, engaging in office hours, debugging with peers, using and citing small portions of code found online, seeking online knowledge, and seeking guidance from tutors. | Unacceptable Behaviors: Accessing or sharing solutions before submission, plagiarizing, not citing sources of external code or techniques, paying or offering payment for coursework, and sharing course material with future potential students. | Engaging in unacceptable behaviors will lead to disciplinary action. When in doubt, always consult the course instructors. ​ ​ | . | Collaboration &amp; Teamwork: . | Collaboration is encouraged, especially for projects. However, ensure you contribute equally and do not divide tasks in a way that prevents you from understanding all parts of the assignment. | . | Feedback &amp; Evaluation: . | Continuous feedback is vital for the learning process. While the course has several grading components, always focus on understanding rather than just marks. Do provide feedback on the course structure, content, and delivery, so we can continually improve. | . | . ",
+    "content": ". | Getting Help: . | ED Forum: Post questions related to course content, or technical issues on the ED forum. This encourages peer learning and allows teaching staff to address common concerns. We regularly monitor the forum to provide guidance. | Teaching Staff Helpline: For matters specific to the teaching staff, please send your queries to e115spring2025@gmail.com. | Email the Instructor: For private or individual concerns, please feel free to directly email the instructor. | . | Deadline Policy: . Consistent and timely completion of assignments is imperative in this course. All course milestones must be submitted by 9:00 PM EST on the specified due dates. You are allocated 6 late days throughout the semester to accommodate unforeseen circumstances such as illness or overlapping deadlines. Please note that these 6 days represent the full extent of flexibility offered, and no additional late days will be granted. You are allowed a maximum of three late days for any single assignment. For Group project milestones, at least all of the group member must have late days available. Final Milestone / Midterms: It’s important to note that no extensions will be permitted for the final milestone / midterms, under any circumstances. Therefore, careful time management is strongly encouraged to ensure that you can meet this critical deadline. | Academic Honesty: . | This course places a strong emphasis on ethical behavior. Whether it’s ethically handling data or attributing the work of others, students are expected to maintain high standards of integrity. | Acceptable Behaviors: Discussing course materials, engaging in office hours, debugging with peers, using and citing small portions of code found online, seeking online knowledge, and seeking guidance from tutors. | Unacceptable Behaviors: Accessing or sharing solutions before submission, plagiarizing, not citing sources of external code or techniques, paying or offering payment for coursework, and sharing course material with future potential students. | Engaging in unacceptable behaviors will lead to disciplinary action. When in doubt, always consult the course instructors. ​ ​ | . | Collaboration &amp; Teamwork: . | Collaboration is encouraged, especially for projects. However, ensure you contribute equally and do not divide tasks in a way that prevents you from understanding all parts of the assignment. | . | Feedback &amp; Evaluation: . | Continuous feedback is vital for the learning process. While the course has several grading components, always focus on understanding rather than just marks. Do provide feedback on the course structure, content, and delivery, so we can continually improve. | . | . ",
     "url": "/#course-policies",
     
     "relUrl": "/#course-policies"
-  },"12": {
-    "doc": "AC215: MLOps, LLMOps & AIOps - Productionizing AI Systems",
+  },"10": {
+    "doc": "E115: MLOps, LLMOps & AIOps - Productionizing AI Systems",
     "title": "Policy on Usage of Publicly Available Class Material",
     "content": ". | Permitted Use: Class Material is made available primarily for the educational benefit of enrolled students and may be used by others for personal educational purposes only. | Prohibited Use: . | Selling or commercializing any part of the Class Material. | Sharing, distributing, or publishing any part of the Class Material in any form or through any medium without explicit permission from the instructor. | Modifying or altering the Class Material to create derivative works. | . | Attribution: Any permitted use of the Class Material must carry appropriate acknowledgment of the source (e.g., the instructor’s name, course title, and institution). | Enforcement: Failure to comply with this policy may result in legal action and/or disciplinary measures as applicable. | . #### Consent: By accessing and using the Class Material, you indicate your acknowledgment and acceptance of this policy. ",
     "url": "/#policy-on-usage-of-publicly-available-class-material",
     
     "relUrl": "/#policy-on-usage-of-publicly-available-class-material"
-  },"13": {
-    "doc": "AC215: MLOps, LLMOps & AIOps - Productionizing AI Systems",
+  },"11": {
+    "doc": "E115: MLOps, LLMOps & AIOps - Productionizing AI Systems",
     "title": "Accessibility:",
     "content": "We are committed to ensuring that this course is accessible to everyone. If you require special accommodations or have any specific needs, please contact the course administrators as soon as possible. Adherence to accessibility policies and a commitment to fairness, respect for your learning journey, and consideration for the learning journey of your peers are expected from all students. ",
     "url": "/#accessibility",
     
     "relUrl": "/#accessibility"
-  },"14": {
-    "doc": "AC215: MLOps, LLMOps & AIOps - Productionizing AI Systems",
+  },"12": {
+    "doc": "E115: MLOps, LLMOps & AIOps - Productionizing AI Systems",
     "title": "Inclusion and Belonging Statement",
     "content": "In this data science class, we strive to create a diverse and inclusive learning environment that respects all identities, including race, gender, class, sexuality, religion, and ability. Our goal is to: . | Advance ethical data science and expose biases in its applications. | Encourage a variety of thoughts, perspectives, and experiences. | Be a supportive resource, open to understanding and adapting to your unique needs. | . To foster inclusion: . | Please inform us if your name or pronouns differ from official records. | If something affects your class performance or if you feel uncomfortable with any classroom interactions, reach out to us. You may also find resources at the Harvard Office of Diversity and Inclusion. | Respect and consideration for diverse backgrounds and perspectives are expected from all participants. | Your feedback is essential in enhancing diversity, inclusion, and ethics within our class. Feel free to contact us or submit anonymous suggestions. | . ",
     "url": "/#inclusion-and-belonging-statement",
     
     "relUrl": "/#inclusion-and-belonging-statement"
-  },"15": {
-    "doc": "AC215: MLOps, LLMOps & AIOps - Productionizing AI Systems",
-    "title": "AC215: MLOps, LLMOps & AIOps - Productionizing AI Systems",
+  },"13": {
+    "doc": "E115: MLOps, LLMOps & AIOps - Productionizing AI Systems",
+    "title": "E115: MLOps, LLMOps & AIOps - Productionizing AI Systems",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
-  },"16": {
+  },"14": {
     "doc": "Announcements",
     "title": "Announcements",
     "content": "Announcements are stored in the _announcements directory and rendered according to the layout file, _layouts/announcement.html. ",
     "url": "/announcements/",
     
     "relUrl": "/announcements/"
-  },"17": {
+  },"15": {
     "doc": "Announcements",
     "title": "Week 1 Announcement",
     "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . ",
     "url": "/announcements/",
     
     "relUrl": "/announcements/"
-  },"18": {
+  },"16": {
     "doc": "Announcements",
     "title": "Week 0 Announcement",
     "content": "Apr 1 &middot; 0 min read Hello world! . ",
     "url": "/announcements/",
     
     "relUrl": "/announcements/"
-  },"19": {
+  },"17": {
     "doc": "Calendar",
     "title": "Calendar",
     "content": ". ",
     "url": "/calendar/",
     
     "relUrl": "/calendar/"
-  },"20": {
+  },"18": {
     "doc": "FAQs",
     "title": "FAQs",
-    "content": "Is there a class GitHub repository? . Indeed. You can find it at https://github.com/Harvard-IACS/2024-AC215. Is it necessary for me to be present for the live lectures? . While university policies require all AC215 students to attend the lectures, we don’t officially record attendance. Attendance is crucial for earning late days should you wish to utilize during the semester (See Course Policies) . It’s worth mentioning that all lectures are videotaped, so you can watch them later if you can’t attend. However, missing the live sessions means you’ll miss the opportunity for real-time interaction with the instructors and your classmates. Can I view the video recordings for the course? . Absolutely. All students enrolled in AC215 will have access to video recordings. Can I audit this class? . All course materials are publicly available, and you are free to access them as long as you adhere to our policies. Auditing the class allows you access to the materials and the ability to attend lectures in person. However, we cannot provide auditors with access to Canvas or the recorded videos. Additionally, auditors are not permitted to use any resources, including time with the teaching staff. In summary, you are welcome to attend lectures and access the materials, but please do not ask questions or participate in discussions. ",
+    "content": "Is there a class GitHub repository? . Indeed. You can find it at https://github.com/Harvard-IACS/2025-E115. Is it necessary for me to be present for the live lectures? . While E115 students are encouraged to attend live online lectures, attendance is not officially recorded. However, participating in live sessions is highly beneficial as it allows for real-time interaction with the teaching staff, which can greatly enhance your understanding of the material. It’s worth mentioning that all lectures are videotaped, so you can watch them later if you can’t attend. However, missing the live sessions means you’ll miss the opportunity for real-time interaction with the instructors and your classmates. Can I view the video recordings for the course? . Absolutely. All students enrolled in E115 will have access to video recordings. Can I audit this class? All course materials are publicly accessible, and you’re welcome to use them as long as you follow our policies. However, only registered students have access to Canvas, live streams, and recorded videos. ",
     "url": "/faq/",
     
     "relUrl": "/faq/"
-  },"21": {
+  },"19": {
     "doc": "Milestone 1",
     "title": "ButterFlyer",
     "content": ". ",
     "url": "/milestone1/#butterflyer",
     
     "relUrl": "/milestone1/#butterflyer"
-  },"22": {
+  },"20": {
     "doc": "Milestone 1",
     "title": "Statement of Work for Project “”",
     "content": " ",
     "url": "/milestone1/#statement-of-work-for-project-",
     
     "relUrl": "/milestone1/#statement-of-work-for-project-"
-  },"23": {
+  },"21": {
     "doc": "Milestone 1",
     "title": "Team Members",
     "content": ". | [Pavlov Protovief] | [Paolo Primopadre] | [Pablo El Padron ] ",
     "url": "/milestone1/#team-members",
     
     "relUrl": "/milestone1/#team-members"
-  },"24": {
+  },"22": {
     "doc": "Milestone 1",
     "title": "Contact Information",
     "content": "| [pavlos@pleasedonotemailme.com] | . Problem Statement . To develop an application that can identify various species of butterflies in the wild using computer vision and offer educational content through a chatbot interface. Minimum Components for a Good Project . | Large Data: Collection and utilization of a varied and substantial dataset of butterfly images. | Scalability: Ability to handle multiple users querying the computer vision model and chatbot simultaneously. | Complex Models: Use of deep learning-based computer vision models for accurate species identification. | Computationally Expensive Inference: Implementation of efficient algorithms to minimize latency during species identification. | . Objectives . | Collect and preprocess a diverse dataset of butterfly images. | Develop a computer vision model to identify butterfly species. | Implement a scalable backend to handle multiple queries. | Design an intuitive and user-friendly frontend. | Integrate a chatbot for answering user questions about butterflies. | . Learning Emphasis . The project will focus on employing a convolutional neural network for image recognition and natural language processing techniques for the chatbot, both areas covered in the course. Application Mock Design . The application will feature two main interfaces: . | A camera interface for capturing butterfly images. | A chatbot interface to interact with users. (Additional wireframes or mock-ups can be attached). | . Objectives . | Collect and preprocess a diverse dataset of butterfly images: . | Data Source: The dataset will primarily come from public repositories like [X Dataset Source] and [Y Dataset Source]. We will also supplement this with images captured during field trips and those sourced from citizen science platforms. | Data Attributes: Images should ideally be labeled with the species name, geographic location, and date of capture. | Data Relevance: The comprehensiveness of the dataset is vital for training a robust computer vision model capable of identifying a wide range of butterfly species. | . (Note: If acquiring new images, all team members should adhere to ethical guidelines concerning wildlife photography and data collection.) . | . | Source: Data will be collated from a combination of open-source databases, user-generated content from platforms like iNaturalist, and field data collection by team members. | Description: The dataset will comprise images of various butterfly species, ideally annotated with species names and other metadata like geographic location and date. | Key Attributes: The dataset should include high-resolution images suitable for computer vision algorithms, along with associated metadata to enrich the model’s understanding. | Relevance: The dataset is fundamental to train the computer vision model to identify different species of butterflies accurately. | Data Quality: We anticipate that some images might be poorly labeled or low in quality. These will either be cleaned or supplemented with additional data. | . Research and Development . We will review literature and open-source projects related to computer vision in biological classification and natural language processing for educational chatbots. Fun Factor . Exploring the intersection of biology and technology, while learning about butterflies, makes this project particularly engaging. Limitations and Risks . | Possible challenges in obtaining a large and diverse enough dataset. | Computational limitations when deploying complex models. | . Milestones . | Data collection and preprocessing: [Tentative Deadline] | Computer vision model development: [Tentative Deadline] | Backend implementation: [Tentative Deadline] | Frontend development: [Tentative Deadline] | Chatbot integration: [Tentative Deadline] | Final testing and deployment: [Tentative Deadline] | . ",
     "url": "/milestone1/#contact-information",
     
     "relUrl": "/milestone1/#contact-information"
-  },"25": {
+  },"23": {
     "doc": "Milestone 1",
     "title": "Milestone 1",
-    "content": "Project Milestone 1 (the promytheus phase): Project Proposals, Team formation . Key dates: . | project proposals due: Sep 20th | staff feedback: Sep 25th | . Objectives: . For the first milestone, your team will propose a project that aligns with your personal, professional, and academic interests and passions. Allowing you to propose your own projects, will enhance your engagement and lead to better learning outcomes. This approach will also foster your independence, critical thinking skills, and creativity, preparing you for real-world scenarios where you may be required to initiate and lead your own projects. Call on your inner data scientist and take charge of your project experience. Step 1: Create Teams (Groups of 3-4 Students) . Platform for Team Formation: You may use the Ed platform to find your teammates. Alternatively, you may form teams independently. Team Registration: Once you have finalized your team, please enter your team name and the names of team members in this shared spreadsheet. Step 2: Submit Statement of Work (Project Proposal) . Your Statement of Work should act as a blueprint for your project. It doesn’t have to be extensive, but it should be clear and focused. Components of the Statement of Work: . Title and Authors: . | Title: An engaging, relevant, and informative title that captures the essence of your project. | Authors: Names of all team members and their respective email addresses. | . Background and Motivation: . Provide a brief background on the topic you have chosen. Explain why you find it interesting or important, and mention any previous background, research interests, or readings that have influenced your choice. Scope and Objectives: . Clearly outline the problem or question your project aims to solve. Make sure the scope is well-defined so that there is no ambiguity regarding your project’s objectives. Submission Guidelines: . | Length: 1-2 pages . | Format: PDF . | Submit via Canvas . | . Step 3: Discuss Data Sources . Data is the backbone of any data science project and therefore for any MLOps project, making it crucial to identify appropriate datasets for your endeavor. In your Statement of Work, you must address the following aspects regarding data: . Source of Data: . | Identify where the data comes from (e.g., public repository, generated by the team, etc.). | . Description of Dataset: . | Offer a brief overview of what the dataset contains. Is it time-series data, images, textual data, etc.? | . Key Attributes: . | Describe the variables or features that are most relevant to your problem. | . Relevance to the Project: . | Explain how the data is suited to solving the problem or question you’ve posed. Why is this data set useful or relevant? | . Data Quality Concerns: . | If applicable, indicate any potential challenges related to data quality that you foresee (e.g., missing data, inconsistencies, or the need to merge multiple datasets). Mention your preliminary plan to tackle these issues. | . Important Note: . Statements of Work that do not include information on available and relevant data will not be accepted. Step 4: Define Scope and Preliminary Design . The scope of your project is largely up to you and your team. Whether it’s simple or complex, the aim should be to align with the course’s learning objectives. However, for a project to be considered comprehensive, it should ideally include a few of the following minimum components: . Minimum Components for a Good Project: . | Large or Heterogeneous Data: Your project should involve a sizable or diverse dataset that requires careful handling and processing. | Scalability: Consider how your solution will scale for many users, particularly in the application you intend to build. | Complex Models: The project should explore models that are challenging to train, which will showcase your understanding of MLOps challenges. | Computationally Expensive Inference: If your project involves inference models, they should be computationally intensive to align with real-world challenges. | . Problem Statement: . | Clearly outline the problem or question your project addresses. | . Objectives: . | List the primary goals or outcomes, which should align with your problem statement and the minimum components outlined above. | . Learning Emphasis: . | Opt for models and methods that your team understands. The project should reflect your grasp of course concepts. | . Application Mock Design: . | Include a preliminary design or sketch for the application you intend to develop. This could range from simple wireframes to a more detailed, clickable prototype. | . Research and Development: . | Reference papers, blog posts, or other scholarly materials that aid your project and align with your objectives. | . Fun Factor: . | The project should also be a space for you to enjoy both the subject matter and the developmental process. | . Limitations and Risks: . | Discuss any anticipated challenges or limitations, such as data quality issues or technical constraints. | . Milestones: . | List key milestones for both your project and application development. Include tentative deadlines, if possible. | . Important Note: . Statements of Work that do not include both a well-defined scope and a preliminary design for the application will not be accepted. Deliverables: Submit a PDF of your proposal on canvas by 9:00 PM EST on Sep 20th. Below are two samples SOW for such apps: . Sample Proposal . ",
+    "content": "Project Milestone 1 (the promytheus phase): Project Proposals, Team formation . Key dates: . | project proposals due: Feb 20th | staff feedback: Feb 25th | . Objectives: . For the first milestone, your team will propose a project that aligns with your personal, professional, and academic interests and passions. Allowing you to propose your own projects, will enhance your engagement and lead to better learning outcomes. This approach will also foster your independence, critical thinking skills, and creativity, preparing you for real-world scenarios where you may be required to initiate and lead your own projects. Call on your inner data scientist and take charge of your project experience. Step 1: Create Teams (Groups of 3-4 Students) . Platform for Team Formation: You may use the Ed platform to find your teammates. Alternatively, you may form teams independently. Team Registration: Once you have finalized your team, please enter your team name and the names of team members in this shared spreadsheet. Step 2: Submit Statement of Work (Project Proposal) . Your Statement of Work should act as a blueprint for your project. It doesn’t have to be extensive, but it should be clear and focused. Components of the Statement of Work: . Title and Authors: . | Title: An engaging, relevant, and informative title that captures the essence of your project. | Authors: Names of all team members and their respective email addresses. | . Background and Motivation: . Provide a brief background on the topic you have chosen. Explain why you find it interesting or important, and mention any previous background, research interests, or readings that have influenced your choice. Scope and Objectives: . Clearly outline the problem or question your project aims to solve. Make sure the scope is well-defined so that there is no ambiguity regarding your project’s objectives. Submission Guidelines: . | Length: 1-2 pages . | Format: PDF . | Submit via Canvas . | . Step 3: Discuss Data Sources . Data is the backbone of any data science project and therefore for any MLOps project, making it crucial to identify appropriate datasets for your endeavor. In your Statement of Work, you must address the following aspects regarding data: . Source of Data: . | Identify where the data comes from (e.g., public repository, generated by the team, etc.). | . Description of Dataset: . | Offer a brief overview of what the dataset contains. Is it time-series data, images, textual data, etc.? | . Key Attributes: . | Describe the variables or features that are most relevant to your problem. | . Relevance to the Project: . | Explain how the data is suited to solving the problem or question you’ve posed. Why is this data set useful or relevant? | . Data Quality Concerns: . | If applicable, indicate any potential challenges related to data quality that you foresee (e.g., missing data, inconsistencies, or the need to merge multiple datasets). Mention your preliminary plan to tackle these issues. | . Important Note: . Statements of Work that do not include information on available and relevant data will not be accepted. Step 4: Define Scope and Preliminary Design . The scope of your project is largely up to you and your team. Whether it’s simple or complex, the aim should be to align with the course’s learning objectives. However, for a project to be considered comprehensive, it should ideally include a few of the following minimum components: . Minimum Components for a Good Project: . | Large or Heterogeneous Data: Your project should involve a sizable or diverse dataset that requires careful handling and processing. | Scalability: Consider how your solution will scale for many users, particularly in the application you intend to build. | Complex Models: The project should explore models that are challenging to train, which will showcase your understanding of MLOps challenges. | Computationally Expensive Inference: If your project involves inference models, they should be computationally intensive to align with real-world challenges. | . Problem Statement: . | Clearly outline the problem or question your project addresses. | . Objectives: . | List the primary goals or outcomes, which should align with your problem statement and the minimum components outlined above. | . Learning Emphasis: . | Opt for models and methods that your team understands. The project should reflect your grasp of course concepts. | . Application Mock Design: . | Include a preliminary design or sketch for the application you intend to develop. This could range from simple wireframes to a more detailed, clickable prototype. | . Research and Development: . | Reference papers, blog posts, or other scholarly materials that aid your project and align with your objectives. | . Fun Factor: . | The project should also be a space for you to enjoy both the subject matter and the developmental process. | . Limitations and Risks: . | Discuss any anticipated challenges or limitations, such as data quality issues or technical constraints. | . Milestones: . | List key milestones for both your project and application development. Include tentative deadlines, if possible. | . Important Note: . Statements of Work that do not include both a well-defined scope and a preliminary design for the application will not be accepted. Deliverables: Submit a PDF of your proposal on canvas . Below are two samples SOW for such apps: . Sample Proposal . ",
     "url": "/milestone1/",
     
     "relUrl": "/milestone1/"
-  },"26": {
+  },"24": {
     "doc": "Milestone 2",
     "title": "Milestone 2",
-    "content": "Milestone 2 : MLOps Infrastructure &amp; Advanced Training Workflows - . Building Atomic Containers, Versioned Data Pipelines, and Scalable Computing Solutions . This milestone focuses on establishing the core infrastructure necessary for an MLOps pipeline. Teams are expected to create functional environments, containerized components, and a versioned data management strategy to ensure their work is reproducible and scalable. For teams utilizing Large Language Models (LLMs), the emphasis is on setting up a RAG workflow, including data chunking and integration with a vector database. Teams focusing on computer vision or other modalities will develop fine-tune models, and conduct experiments to optimize performance. By the end of this milestone, teams will have built foundational elements for their project, enabling integration of components and supporting the continued evolution of their models and applications. They will also be required to create a mock-up of their final application, either refining or extending previous submissions. Key dates: . | Due date: Oct 18th | . Template Repository . Objectives: . Virtual Environment Setup: Virtual machines and environments tailored to support containerized components must be fully implemented. This should include detailed documentation on the setup process. Deliverables: . | A screenshot of the running instances in the cloud or local environment. | . Containerized Components: All individual project components should be containerized using Docker, ensuring atomicity and isolation. Each container must perform a specific function (e.g., data scraping, preprocessing, data labeling) and be ready for integration into the project architecture. Deliverables: . | Dockerfiles for each container and build instructions | Pipfiles files for package management within each container | Shell scripts or docker-compose.yml for orchestration, if multiple containers need to be run together | Documentation explaining the purpose of each container and instructions for running them. | . Versioned Data Strategy: Implement a data versioning strategy using tools like DVC or other suitable solutions. If feasible, this strategy should also be containerized to ensure portability and reproducibility of data processes.(Optional but recommended) . Please make sure to record your prompts as part of the data. For eg: If you are generating data using a LLM, please add the prompts and generated data as part of the dataset. Deliverables: . | Documentation on the data versioning strategy chosen (e.g., DVC) and why | A working containerized version of the data versioning pipeline (if applicable) | Version control history showing tracked datasets, along with their respective versions, commits, and logs. | . Teams Utilizing LLMs (Large Language Models): Teams working with LLMs should implement a RAG setup. This setup should include data collection, chunking into appropriate sizes for processing, and the integration of a vector database. Teams should also fine-tune models and document the experimentation process. Deliverables: . | A containerized RAG pipeline, including scripts for data chunking, vectorization, and integration with a vector database | Documentation of the fine-tuning process, including datasets used, hyperparameters, and models | Experiment logs showing model performance across different fine-tuning and RAG configurations. | . Teams Focusing on Computer Vision or Other Modalities: Teams working on computer vision or other modalities (e.g., audio, time series) should focus on creating a robust data pipeline, fine-tuning models for their respective task, and experimenting with different model architectures. Deliverables: . | A containerized pipeline for data ingestion and preprocessing | Model fine-tuning scripts with detailed documentation on hyperparameters, datasets, and model versions | Experiment logs, including results of different models, architectures, or techniques used. | . Mock-up of the Application: A working prototype or mock-up of the final application that integrates all project components. Teams that have already submitted this in Milestone 1 should refine or extend their prototype based on feedback or new progress. Deliverables: . | An application mock-up or wireframe, including user interface elements and how the app will interact with back-end components | . ",
+    "content": "Milestone 2 : MLOps Infrastructure &amp; Advanced Training Workflows - . Building Atomic Containers, Versioned Data Pipelines, and Scalable Computing Solutions . This milestone focuses on establishing the core infrastructure necessary for an MLOps pipeline. Teams are expected to create functional environments, containerized components, and a versioned data management strategy to ensure their work is reproducible and scalable. For teams utilizing Large Language Models (LLMs), the emphasis is on setting up a RAG workflow, including data chunking and integration with a vector database. Teams focusing on computer vision or other modalities will develop fine-tune models, and conduct experiments to optimize performance. By the end of this milestone, teams will have built foundational elements for their project, enabling integration of components and supporting the continued evolution of their models and applications. They will also be required to create a mock-up of their final application, either refining or extending previous submissions. Key dates: . | Due date: Mar 13 | . Template Repository . Objectives: . Virtual Environment Setup: Virtual machines and environments tailored to support containerized components must be fully implemented. This should include detailed documentation on the setup process. Deliverables: . | A screenshot of the running instances in the cloud or local environment. | . Containerized Components: All individual project components should be containerized using Docker, ensuring atomicity and isolation. Each container must perform a specific function (e.g., data scraping, preprocessing, data labeling) and be ready for integration into the project architecture. Deliverables: . | Dockerfiles for each container and build instructions | Pipfiles files for package management within each container | Shell scripts or docker-compose.yml for orchestration, if multiple containers need to be run together | Documentation explaining the purpose of each container and instructions for running them. | . Versioned Data Strategy: Implement a data versioning strategy using tools like DVC or other suitable solutions. If feasible, this strategy should also be containerized to ensure portability and reproducibility of data processes.(Optional but recommended) . Please make sure to record your prompts as part of the data. For eg: If you are generating data using a LLM, please add the prompts and generated data as part of the dataset. Deliverables: . | Documentation on the data versioning strategy chosen (e.g., DVC) and why | A working containerized version of the data versioning pipeline (if applicable) | Version control history showing tracked datasets, along with their respective versions, commits, and logs. | . Teams Utilizing LLMs (Large Language Models): Teams working with LLMs should implement a RAG setup. This setup should include data collection, chunking into appropriate sizes for processing, and the integration of a vector database. Teams should also fine-tune models and document the experimentation process. Deliverables: . | A containerized RAG pipeline, including scripts for data chunking, vectorization, and integration with a vector database | Documentation of the fine-tuning process, including datasets used, hyperparameters, and models | Experiment logs showing model performance across different fine-tuning and RAG configurations. | . Teams Focusing on Computer Vision or Other Modalities: Teams working on computer vision or other modalities (e.g., audio, time series) should focus on creating a robust data pipeline, fine-tuning models for their respective task, and experimenting with different model architectures. Deliverables: . | A containerized pipeline for data ingestion and preprocessing | Model fine-tuning scripts with detailed documentation on hyperparameters, datasets, and model versions | Experiment logs, including results of different models, architectures, or techniques used. | . Mock-up of the Application: A working prototype or mock-up of the final application that integrates all project components. Teams that have already submitted this in Milestone 1 should refine or extend their prototype based on feedback or new progress. Deliverables: . | An application mock-up or wireframe, including user interface elements and how the app will interact with back-end components | . ",
     "url": "/milestone2/",
     
     "relUrl": "/milestone2/"
-  },"27": {
+  },"25": {
     "doc": "Milestone 3",
     "title": "Milestone 3 : Midterm Presentation",
-    "content": "Overview . In the past few weeks, we’ve explored the development of AI applications, focusing on: . | Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) techniques. | Fine-tuning models for enhanced performance. | Utilizing Google Cloud Platform (GCP) for cloud-based AI deployments. | Managing data versioning with DVC and deploying applications using Docker containers. | Employing Vertex AI for scalable model training and deployment. | . For this milestone, you will present your AI application in the form of an investor pitch. Your objective is to communicate complex technical concepts clearly and persuasively while demonstrating the potential business impact of your AI solution. Your presentation should: . Key Dates . | Presentation Date: Thursday, October 31st. Details on the schedule and location will be posted on Ed. Slides submission: Please submit slides by noon on 10/31 via Canvas. | . Presentation Requirements . Your presentation should be 5 minutes long, followed by 1 minute for Q&amp;A. It should include: . 1. Problem Statement and Target Audience . | Define the Problem: Clearly articulate the specific problem your AI application addresses. | Identify the Target Audience: Describe who will benefit from your solution (e.g., specific industries, user groups). | . 2. Unique Value Proposition . | Highlight Uniqueness: Explain what sets your solution apart from existing alternatives. | Demonstrate Value: Illustrate how your AI application provides unique benefits to the target audience. | . 3. Scalability and Efficiency . | Technical Scalability: Discuss how your application can scale to meet growing demands. | Performance Optimization: Explain any optimizations implemented for efficiency (e.g., fine-tuning, infrastructure choices). | Infrastructure Considerations: Briefly mention the technologies used (e.g., GCP, Docker, Vertex AI) and why they were chosen. | . 4. Future Development and Growth Potential . | Next Steps: Outline your plans for further development of the AI application. | Market Growth: Discuss the potential for market expansion and how your solution can adapt. | . Be Prepared to Answer Questions On . | Technical Architecture and Infrastructure Choices Why did you choose specific tools and platforms? How does your architecture support scalability and reliability? | Data Management and Security How do you handle data versioning and storage? What measures are in place to ensure data security and compliance (if applies)? | Model Performance, Optimization, and Maintenance What are the performance metrics of your model? How will you maintain and update the model over time? | Market Opportunity What is the size of the market you are targeting? How does your solution meet a demand or gap in the market? | . Presentation Guidelines . | Audience Consideration: Tailor your presentation to be accessible to both technical and non-technical stakeholders. | Engaging Narrative: Tell a compelling story that connects the technical aspects to real-world impact. | Visual Aids: Use clear and effective visuals (e.g., diagrams, charts) to illustrate key points. | Time Management: Practice to ensure you cover all points within the 5-minute timeframe. | . Deliverables . Note: All deliverables must be submitted via GitHub (milestone3 branch), submit full commit hash on Canvas. 1. Presentation Slides . 2. Code submission, similar to Milestone 2 Any additions/modifications must be highlighted in the README.md file. Evaluation Criteria . Your presentation will be assessed based on: . | Technical Depth (30%): Clarity and accuracy in explaining your AI application’s technical aspects. | Business Acumen (25%): Effectiveness in conveying the market potential and value proposition. | Clarity and Structure (20%): Organization of content and logical flow of the presentation. | Visual Communication (15%): Use of visuals to enhance understanding. | Engagement and Delivery (10%): Presentation style and ability to engage the audience, including during Q&amp;A. | . Additional Resources . | Template Repository: AC215 Milestone 3 Template Repository . | Presentation Tips: . | Keep slides concise; avoid overcrowding with text. | Rehearse your presentation multiple times. | Anticipate questions and prepare responses. | . | . ",
+    "content": "Overview . In the past few weeks, we’ve explored the development of AI applications, focusing on: . | Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) techniques. | Fine-tuning models for enhanced performance. | Utilizing Google Cloud Platform (GCP) for cloud-based AI deployments. | Managing data versioning with DVC and deploying applications using Docker containers. | Employing Vertex AI for scalable model training and deployment. | . For this milestone, you will present your AI application in the form of an investor pitch. Your objective is to communicate complex technical concepts clearly and persuasively while demonstrating the potential business impact of your AI solution. Your presentation should: . Key Dates . | Presentation Date: Mar 27 Details on the schedule will be posted on Ed. Slides submission and/or GitHub Repo submission: 9PM 3/27 via Canvas. | . Presentation Requirements . Your presentation should be 5 minutes long, followed by 1 minute for Q&amp;A. It should include: . 1. Problem Statement and Target Audience . | Define the Problem: Clearly articulate the specific problem your AI application addresses. | Identify the Target Audience: Describe who will benefit from your solution (e.g., specific industries, user groups). | . 2. Unique Value Proposition . | Highlight Uniqueness: Explain what sets your solution apart from existing alternatives. | Demonstrate Value: Illustrate how your AI application provides unique benefits to the target audience. | . 3. Scalability and Efficiency . | Technical Scalability: Discuss how your application can scale to meet growing demands. | Performance Optimization: Explain any optimizations implemented for efficiency (e.g., fine-tuning, infrastructure choices). | Infrastructure Considerations: Briefly mention the technologies used (e.g., GCP, Docker, Vertex AI) and why they were chosen. | . 4. Future Development and Growth Potential . | Next Steps: Outline your plans for further development of the AI application. | Market Growth: Discuss the potential for market expansion and how your solution can adapt. | . Be Prepared to Answer Questions On . | Technical Architecture and Infrastructure Choices Why did you choose specific tools and platforms? How does your architecture support scalability and reliability? | Data Management and Security How do you handle data versioning and storage? What measures are in place to ensure data security and compliance (if applies)? | Model Performance, Optimization, and Maintenance What are the performance metrics of your model? How will you maintain and update the model over time? | Market Opportunity What is the size of the market you are targeting? How does your solution meet a demand or gap in the market? | . Presentation Guidelines . | Audience Consideration: Tailor your presentation to be accessible to both technical and non-technical stakeholders. | Engaging Narrative: Tell a compelling story that connects the technical aspects to real-world impact. | Visual Aids: Use clear and effective visuals (e.g., diagrams, charts) to illustrate key points. | Time Management: Practice to ensure you cover all points within the 5-minute timeframe. | . Deliverables . Note: All deliverables must be submitted via GitHub (milestone3 branch), submit full commit hash on Canvas. 1. Presentation Slides . 2. Code submission, similar to Milestone 2 Any additions/modifications must be highlighted in the README.md file. Evaluation Criteria . Your presentation will be assessed based on: . | Technical Depth (30%): Clarity and accuracy in explaining your AI application’s technical aspects. | Business Acumen (25%): Effectiveness in conveying the market potential and value proposition. | Clarity and Structure (20%): Organization of content and logical flow of the presentation. | Visual Communication (15%): Use of visuals to enhance understanding. | Engagement and Delivery (10%): Presentation style and ability to engage the audience, including during Q&amp;A. | . Additional Resources . | Template Repository: E115 Milestone 3 Template Repository . | Presentation Tips: . | Keep slides concise; avoid overcrowding with text. | Rehearse your presentation multiple times. | Anticipate questions and prepare responses. | . | . ",
     "url": "/milestone3/#milestone-3--midterm-presentation",
     
     "relUrl": "/milestone3/#milestone-3--midterm-presentation"
-  },"28": {
+  },"26": {
     "doc": "Milestone 3",
     "title": "Milestone 3",
     "content": " ",
     "url": "/milestone3/",
     
     "relUrl": "/milestone3/"
-  },"29": {
+  },"27": {
     "doc": "Milestone 4",
     "title": "Milestone 4",
-    "content": "Milestone 4 : Development and Deployment . Milestone 4 focuses on developing, testing, and deploying a user-facing application that integrates all components from previous milestones. This milestone ensures the project is functional, well-tested, and ready for real-world usage through automation and deployment strategies. Key dates: . | Due date: Nov 19th | . Template Repository . Milestone 4 Template . Objectives: . | App Design, Setup, and Code Organization: . | Design the application’s overall architecture, including the user interface and underlying code structure. | Emphasize clean code organization for maintainability and efficiency. | . | APIs &amp; Frontend Integration: . | Develop robust APIs for communication between the front end and back end. | Implement a user-friendly front-end interface using these APIs for a seamless user experience. | . | Continuous Integration (CI): . | Implement CI using GitHub Actions or a similar tool. | Automate building, testing, and deployment processes to ensure new code merges are automatically validated. | . | Automated Testing: . | Write and integrate unit tests and end-to-end tests for APIs and the front end. | Ensure all tests run automatically in the CI pipeline, with results reported on every commit or pull request. | . | . Deliverables: . | Application Design Document: . | A detailed document outlining the application’s architecture, user interface, and code organization. | Should Include: . | Solution Architecture: High-level overview of system components and their interactions. | Technical Architecture: Specific technologies, frameworks, and design patterns used. | . | . | APIs &amp; Frontend Implementation: . | Working code for APIs and the front-end interface. | Should Include: . | GitHub Repository: All source code with logical organization and proper documentation. | README File: Description of application components, setup instructions, and usage guidelines. | . | . | Continuous Integration Setup: . | A functioning CI pipeline that runs on every push or merge. | Pipeline Must Include: . | Code Build and Linting: Automated build process and code quality checks using linting tools (e.g., ESLint, Flake8) running on GitHub Actions. | Automated Testing: Execution of unit, integration and systems tests with test results reported. | . | . | Automated Testing Implementation: . | Integration of automated tests within the CI pipeline using GitHub Actions. | Should Include: . | Unit Tests: For individual components and functions. | Integration Tests: For integrating multiple components. | System Tests: Covering user flows and interactions. | Test Coverage Reports: Integrated into the CI pipeline to monitor code coverage to be at least 50%. | . | . | Test Documentation: . | Detailed explanations of the testing strategy and implemented tests. | Should Include: . | Testing Tools Used: (e.g. PyTest) | Instructions to Run Tests Manually: For developers to replicate test results locally. | . | . | . ",
+    "content": "Milestone 4 : Development and Deployment . Milestone 4 focuses on developing, testing, and deploying a user-facing application that integrates all components from previous milestones. This milestone ensures the project is functional, well-tested, and ready for real-world usage through automation and deployment strategies. Key dates: . | Due date: Apr 17 | . Template Repository . Milestone 4 Template . Objectives: . | App Design, Setup, and Code Organization: . | Design the application’s overall architecture, including the user interface and underlying code structure. | Emphasize clean code organization for maintainability and efficiency. | . | APIs &amp; Frontend Integration: . | Develop robust APIs for communication between the front end and back end. | Implement a user-friendly front-end interface using these APIs for a seamless user experience. | . | . Deliverables: . | Application Design Document: . | A detailed document outlining the application’s architecture, user interface, and code organization. | Should Include: . | Solution Architecture: High-level overview of system components and their interactions. | Technical Architecture: Specific technologies, frameworks, and design patterns used. | . | . | APIs &amp; Frontend Implementation: . | Working code for APIs and the front-end interface. | Should Include: . | GitHub Repository: All source code with logical organization and proper documentation. | README File: Description of application components, setup instructions, and usage guidelines. | . | . | . ",
     "url": "/milestone4/",
     
     "relUrl": "/milestone4/"
-  },"30": {
+  },"28": {
     "doc": "Milestone 5",
     "title": "Milestone 5: Final Project Delivery",
-    "content": "Due Date: December 11th . Showcase: December 9th, 9:00–11:00 AM . ",
+    "content": "Due Date: May 10 . ",
     "url": "/milestone5/#milestone-5-final-project-delivery",
     
     "relUrl": "/milestone5/#milestone-5-final-project-delivery"
-  },"31": {
+  },"29": {
     "doc": "Milestone 5",
     "title": "Overview",
-    "content": "The final milestone focuses on three key areas: . | Production-ready deployment with Kubernetes and Ansible. | Project demonstration and documentation. | Public communication of results through a live showcase. | . ",
+    "content": "The final milestone focuses on three key areas: . | Production-ready deployment with Kubernetes and Ansible. | Project demonstration and documentation. | . ",
     "url": "/milestone5/#overview",
     
     "relUrl": "/milestone5/#overview"
-  },"32": {
+  },"30": {
     "doc": "Milestone 5",
     "title": "Required Deliverables",
-    "content": "1. Technical Implementation . | Kubernetes Deployment: . | Deploy the application to a Kubernetes cluster. | Demonstrate basic scaling by manually increasing and decreasing the load. | . | Ansible Playbooks for Automated Deployment: . | Write Ansible playbooks to automate the provisioning and deployment of your infrastructure and application, including the kubernetes cluster. | . | CI/CD Pipeline Implementation: . | Set up a CI/CD pipeline using GitHub Actions. The pipeline should: . | Run unit test across every container. | Run integration tests cross the exposed API on every pull request. | Deploy updates to the Kubernetes cluster upon merging changes into the main branch. | The test coverage must be at least 70% of the lines. Document what functions and modules lack testing. | . | . | Machine Learning Workflow: . | Demonstrate a production-ready ML workflow, including: . | Data preprocessing, model training, and evaluation steps integrated into the pipeline. | Automated retraining and deployment triggered by new data or updates to the codebase. | Validation checks to ensure only models meeting performance thresholds are deployed. | . | . | . 2. Documentation . | GitHub Repository: . | Include a well-structured and modular codebase. | Provide a comprehensive README file with the following sections: . | Prerequisites and setup instructions. | Deployment instructions. | Usage details and examples. | Known issues and limitations. | . | Submit main branch for this deliverable. | . | . 3. Presentation Materials . | Video Presentation: . | Record a 6-minute video covering the following: . | Problem statement and the proposed solution. | Technical architecture and key components. | Live demo of the application in action. | Challenges faced and solutions implemented. | . | Submit the video in MP4 format with a minimum resolution of 720p. | . | Blog Post (See Ed for more details): . | Write a 600–800 word Medium blog post summarizing your project for a general audience. The post should highlight the problem, solution, technical approach, and impact. | Include visuals or diagrams where appropriate. | . | Self and Peer Review Forms: . | Complete self-assessment and peer evaluation forms to provide feedback on team contributions. | . | . 4. Showcase (Dec 9th) . | Event Format: . | Each team will have 45 minutes during the live showcase to present their project. | Participants will visit your booth to interact with your application and learn about your implementation. | Monitors will be provided to most teams. Additional equipment or materials must be arranged by the team. | . | App Requirements: . | The app must be fully functional and hosted on Google Cloud Platform (GCP) or AWS, accessible via a public URL. | Include a QR code linking to your application to allow visitors to easily access and explore it. | Prepare to explain your problem, solution, technical implementation, and business value to participants. | . | Best of Show Award: A committee will evaluate all projects during the showcase to select the Best of Show. Evaluation criteria include: . | Innovation and impact. | Technical complexity and robustness. | Clarity of presentation and engagement with participants. | . | . ",
+    "content": "1. Technical Implementation . | Kubernetes Deployment: . | Deploy the application to a Kubernetes cluster. | Demonstrate basic scaling by manually increasing and decreasing the load. | . | Ansible Playbooks for Automated Deployment: . | Write Ansible playbooks to automate the provisioning and deployment of your infrastructure and application, including the kubernetes cluster. | . | CI/CD Pipeline Implementation: . | Set up a CI/CD pipeline using GitHub Actions. The pipeline should: . | Run unit test across every container. | Run integration tests cross the exposed API on every pull request. | Deploy updates to the Kubernetes cluster upon merging changes into the main branch. | The test coverage must be at least 70% of the lines. Document what functions and modules lack testing. | . | . | Machine Learning Workflow: . | Demonstrate a production-ready ML workflow, including: . | Data preprocessing, model training, and evaluation steps integrated into the pipeline. | Automated retraining and deployment triggered by new data or updates to the codebase. | Validation checks to ensure only models meeting performance thresholds are deployed. | . | . | Continuous Integration Setup: . | A functioning CI pipeline that runs on every push or merge. | Pipeline Must Include: . | Code Build and Linting: Automated build process and code quality checks using linting tools (e.g., ESLint, Flake8) running on GitHub Actions. | Automated Testing: Execution of unit, integration and systems tests with test results reported. | . | . | Automated Testing Implementation: . | Integration of automated tests within the CI pipeline using GitHub Actions. | Should Include: . | Unit Tests: For individual components and functions. | Integration Tests: For integrating multiple components. | System Tests: Covering user flows and interactions. | Test Coverage Reports: Integrated into the CI pipeline to monitor code coverage to be at least 50%. | . | . | Test Documentation: . | Detailed explanations of the testing strategy and implemented tests. | Should Include: . | Testing Tools Used: (e.g. PyTest) | Instructions to Run Tests Manually: For developers to replicate test results locally. | . | . | . 2. Documentation . | GitHub Repository: . | Include a well-structured and modular codebase. | Provide a comprehensive README file with the following sections: . | Prerequisites and setup instructions. | Deployment instructions. | Usage details and examples. | Known issues and limitations. | . | Submit main branch for this deliverable. | . | . 3. Presentation Materials . | Video Presentation: . | Record a 6-minute video covering the following: . | Problem statement and the proposed solution. | Technical architecture and key components. | Live demo of the application in action. | Challenges faced and solutions implemented. | . | Submit the video in MP4 format with a minimum resolution of 720p. | . | Blog Post . | Write a 600–800 word Medium blog post summarizing your project for a general audience. The post should highlight the problem, solution, technical approach, and impact. | Include visuals or diagrams where appropriate. | . | Self and Peer Review Forms: . | Complete self-assessment and peer evaluation forms to provide feedback on team contributions. | . | . ",
     "url": "/milestone5/#required-deliverables",
     
     "relUrl": "/milestone5/#required-deliverables"
-  },"33": {
+  },"31": {
     "doc": "Milestone 5",
     "title": "Submission Instructions",
     "content": ". | Submit all deliverables (GitHub repository link, video file, blog post link, and self/peer review forms) via the course submission portal by 11:59 PM, December 11th. | No late submissions | . ",
     "url": "/milestone5/#submission-instructions",
     
     "relUrl": "/milestone5/#submission-instructions"
-  },"34": {
+  },"32": {
     "doc": "Milestone 5",
     "title": "Evaluation Criteria",
-    "content": ". | GitHub (35%): Technical Depth, Content, Clarity, Coding Style | Documentation (25%): README and technical report are clear, complete, and easy to follow. | Presentation and Showcase (40%): . | Video and blog post effectively communicate the project’s value and technical details. | Engagement during the live showcase demonstrates clarity and understanding. | . | . ",
+    "content": ". | GitHub (35%): Technical Depth, Content, Clarity, Coding Style | Documentation (25%): README and technical report are clear, complete, and easy to follow. | Presentation (40%): . | Video and blog post effectively communicate the project’s value and technical details. | . | . ",
     "url": "/milestone5/#evaluation-criteria",
     
     "relUrl": "/milestone5/#evaluation-criteria"
-  },"35": {
+  },"33": {
     "doc": "Milestone 5",
     "title": "Milestone 5",
     "content": " ",
     "url": "/milestone5/",
     
     "relUrl": "/milestone5/"
-  },"36": {
+  },"34": {
     "doc": "Projects",
     "title": "Milestones",
-    "content": "Project Milestones - Overview . | Milestones | Brief Description | Due Date | Grade % | . | MS1 | Project Proposals, Team formation - Students submit project proposals and form teams. Staff reviews proposals and return feedback and project approvals by 09/19. | 09/20 | 4 | . | MS2 | MLOps Infrastructure &amp; Advanced Training Workflows - Building atomic containers, versioned data pipelines, and scalable computing solutions.Scalable and Moduler Computing Infrastructure - Extending advanced training workflows with Tensorflow, experiment tracking, multi-GPU training and serverless training. | 10/18 | 10 | . | MS3 | Midterm Presentation - Presenting a fully functional CLI-based mega pipeline application with model optimization, performance monitoring, and severless inference. | 10/31 | 25 | . | MS4 | Full-Stack Development - Design a user-friendly frontend developed around working API calls and design documents. | 11/19 | 14 | . | MS5 | Final Presentation and Deliverables - Students will finish by working through deployment and scaling, documenting the project through a published Medium post, a 6-minute video presentation, and a well-organized GitHub repository. | 12/11 | 35 | . Guidelines, submission instruction for milestones (and medium page) for future project events will be posted as they approach. ",
+    "content": "Project Milestones - Overview . | Milestones | Brief Description | Due Date | Grade % | . | MS1 | Project Proposals, Team formation - Students submit project proposals and form teams. Staff reviews proposals and return feedback and project approvals by 02/25. | 2/20 | 4 | . | MS2 | MLOps Infrastructure &amp; Advanced Training Workflows - Build atomic containers, implement versioned data pipelines, and develop scalable computing solutions for efficient deployment.Scalable and Modular Computing Infrastructure – Enhance training workflows with TensorFlow, experiment tracking, multi-GPU support, and serverless training environments. | 3/13 | 10 | . | MS3 | Midterm Presentation - Present your AI application as an investor pitch, covering the problem, value proposition, scalability, future development, and technical details, with slides and code submitted via GitHub by Mar 27. | 3/27 | 25 | . | MS4 | Full-Stack Development - Develop, test, and deploy a user-facing application integrating all previous components, with clean code, robust APIs, CI setup, and automated testing for real-world usage. | 4/17 | 14 | . | MS5 | Final Presentation and Deliverables - Students will complete the project by deploying and scaling it, documenting the work through a Medium blog post, a 6-minute video presentation, and a well-structured GitHub repository. | 5/10 | 35 | . Guidelines, submission instruction for milestones (and medium page) for future project events will be posted as they approach. ",
     "url": "/projects/#milestones",
     
     "relUrl": "/projects/#milestones"
-  },"37": {
+  },"35": {
     "doc": "Projects",
     "title": "Projects",
     "content": " ",
     "url": "/projects/",
     
     "relUrl": "/projects/"
-  },"38": {
+  },"36": {
     "doc": "Readings",
     "title": "Virtual Environments",
     "content": "Readings . | Pipenv: Python Dev Workflow for Humans | Getting Started with Python Virtual Environments - Venv | Getting started with Python Virtual Environments using Conda: Why | Getting started with Python Virtual Environments using Conda: How | . ",
     "url": "/readings/#virtual-environments",
     
     "relUrl": "/readings/#virtual-environments"
-  },"39": {
+  },"37": {
     "doc": "Readings",
     "title": "Virtual Machines",
     "content": "Setup/Installations (OPTIONAL) . | How to Install a Windows 10 on Your Mac | Enable Virtual Machines in Windows 10 | . ",
     "url": "/readings/#virtual-machines",
     
     "relUrl": "/readings/#virtual-machines"
-  },"40": {
+  },"38": {
     "doc": "Readings",
     "title": "Containers",
     "content": "Readings . | Dockers Getting Started | Docker Best Practices | Docker WorkShop for Beginners | Docker Labs | Software Development with Docker | Make Code Accessible with these Cloud Services | Install Dockers on Windows 10 Home | . ",
     "url": "/readings/#containers",
     
     "relUrl": "/readings/#containers"
-  },"41": {
+  },"39": {
     "doc": "Readings",
     "title": "Readings",
     "content": " ",
     "url": "/readings/",
     
     "relUrl": "/readings/"
-  },"42": {
+  },"40": {
     "doc": "Schedule and Calendar",
     "title": "Schedule and Calendar",
-    "content": "Overall schedule can be found here and calendar here. ",
+    "content": "Overall schedule can be found here. | Lecture Number | Date | Topic | Link | . | Lecture 1 | 1/28 | Introduction | View | . | Lecture 2 | 1/30 | Virtual Environments and Virtual Machines | View | . | Lecture 3 | 2/4 | Containers I | View | . | Lecture 4 | 2/6 | Containers II | View | . | Lecture 5 | 2/18 | Containers III | View | . | Lecture 6 | 2/20 | Data Labeling and Data Versioning | View | . | Lecture 7 | 2/25 | LLM tools and agents: Instruction Based GPT and RAG | View | . | Lecture 8 | 2/27 | LLM tools and agents: RAG II | View Agents | . | Lecture 9 | 3/4 | LLM fine tuning and LORA - I | View | . | Lecture 10 | 3/6 | LLM fine tuning and LORA - II | View | . | Lecture 11 | 3/11 | Model Optimization: Distillation, Compression | View | . | Lecture 12 | 3/13 | Advanced training workflows: experiment tracking (W&amp;B), multi GPU, serverless training (Vertex AI) | View | . | Lecture 13 | 3/25 | Serverless Deployment: Cloud Functions, Cloud Run | View | . | Lecture 14 | 3/27 | ML Workflows with Vertex AI | View | . | Lecture 15 | 4/3 | App design, setup and code organization | View | . | Lecture 16 | 4/8 | APIs | View | . | Lecture 17 | 4/10 | Frontend | View | . | Lecture 18 | 4/15 | Automating Software Development: CI/CD with GitHub Actions and other tools I | View | . | Lecture 19 | 4/17 | Automating Software Development: CI/CD with GitHub Actions and other tools II | View | . | Lecture 20 | 4/22 | Deployment: Ansible | View | . | Lecture 21 | 4/24 | Scaling: Kubernetes | View | . | Lecture 22 | 4/29 | Final deployment and review | View | . Setup &amp; Installation . Refer to the setup and installation document for a full list of softwares and tools we will be using in this class . Policy on Usage of Publicly Available Class Material . | Permitted Use: Class Material is made available primarily for the educational benefit of enrolled students and may be used by others for personal educational purposes only. | Prohibited Use: . | Selling or commercializing any part of the Class Material. | Sharing, distributing, or publishing any part of the Class Material in any form or through any medium without explicit permission from the instructor. | Modifying or altering the Class Material to create derivative works. | . | Attribution: Any permitted use of the Class Material must carry appropriate acknowledgment of the source (e.g., the instructor’s name, course title, and institution). | Enforcement: Failure to comply with this policy may result in legal action and/or disciplinary measures as applicable. | . Consent: . By accessing and using the Class Material, you indicate your acknowledgment and acceptance of this policy. ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"43": {
-    "doc": "Schedule and Calendar",
-    "title": "Week 1 - Introduction, Virtual Environments, Virtual Machines",
-    "content": "Sep 03 Introduction Lecture 1 ,   Setup &amp; Installation Sep 05 Virtual Enviroments and Virtual Machines Lecture 2 ",
-    "url": "/schedule/#week-1-introduction-virtual-environments-virtual-machines",
-    
-    "relUrl": "/schedule/#week-1-introduction-virtual-environments-virtual-machines"
-  },"44": {
-    "doc": "Schedule and Calendar",
-    "title": "Week 2 - Containers",
-    "content": "Sep 10 Containers I Lecture 3 Sep 12 Containers II Lecture 4   ",
-    "url": "/schedule/#week-2-containers",
-    
-    "relUrl": "/schedule/#week-2-containers"
-  },"45": {
-    "doc": "Schedule and Calendar",
-    "title": "Week 3 - Data Pipelines",
-    "content": "Sep 17 Container Workflow Lecture 5 Sep 19 Data Labeling, Data Versioning Lecture 6 M1 due 09/20 . ",
-    "url": "/schedule/#week-3-data-pipelines",
-    
-    "relUrl": "/schedule/#week-3-data-pipelines"
-  },"46": {
-    "doc": "Schedule and Calendar",
-    "title": "Week 4 - LLM Tools and Agents",
-    "content": "Sep 24 LLM tools and agents: RAG I Lecture 7 Sep 26 LLM tools and agents: RAG II Lecture 8 ,   Extra-RAG Eval HW 1 due 09/27 . ",
-    "url": "/schedule/#week-4-llm-tools-and-agents",
-    
-    "relUrl": "/schedule/#week-4-llm-tools-and-agents"
-  },"47": {
-    "doc": "Schedule and Calendar",
-    "title": "Week 5 - Fine Tuning, LORA",
-    "content": "Oct 1 LLM fine tuning and LORA - I Lecture 9 Oct 3 LLM fine tuning and LORA - II Lecture 10 ",
-    "url": "/schedule/#week-5-fine-tuning-lora",
-    
-    "relUrl": "/schedule/#week-5-fine-tuning-lora"
-  },"48": {
-    "doc": "Schedule and Calendar",
-    "title": "Week 6 - Project Week",
-    "content": "Oct 8 Project Oct 10 Project ",
-    "url": "/schedule/#week-6-project-week",
-    
-    "relUrl": "/schedule/#week-6-project-week"
-  },"49": {
-    "doc": "Schedule and Calendar",
-    "title": "Week 7 - Model Compression and Distillation, Advanced Training Workflows",
-    "content": "Oct 15 Model Compression and Distillation Lecture 11 Oct 17 Advanced training workflows: experiment tracking (W&amp;B), multi GPU, serverless training (Vertex AI) Lecture 12 M2 due 10/18 . ",
-    "url": "/schedule/#week-7-model-compression-and-distillation-advanced-training-workflows",
-    
-    "relUrl": "/schedule/#week-7-model-compression-and-distillation-advanced-training-workflows"
-  },"50": {
-    "doc": "Schedule and Calendar",
-    "title": "Week 8 - Cloud Function and Cloud Run, Guest Lecture",
-    "content": "Oct 22 Cloud Function and Cloud Run Lecture 13 Oct 24 Modal Labs - Guest Lecture Lecture 14 ",
-    "url": "/schedule/#week-8-cloud-function-and-cloud-run-guest-lecture",
-    
-    "relUrl": "/schedule/#week-8-cloud-function-and-cloud-run-guest-lecture"
-  },"51": {
-    "doc": "Schedule and Calendar",
-    "title": "Week 9 - ML Workflows with Vertex AI, Midterm",
-    "content": "Oct 29 ML Workflows with Vertex AI Lecture 15 Oct 31 Midterm (M3) Presentations M3 due 10/31 ",
-    "url": "/schedule/#week-9-ml-workflows-with-vertex-ai-midterm",
-    
-    "relUrl": "/schedule/#week-9-ml-workflows-with-vertex-ai-midterm"
-  },"52": {
-    "doc": "Schedule and Calendar",
-    "title": "Week 10 - Github Actions, App Development",
-    "content": "Nov 5 Automating Software Development: CI/CD with GitHub Actions and other tools Lecture 16 Nov 7 App design, setup and code organization Lecture 17 HW2 due 11/08 . ",
-    "url": "/schedule/#week-10-github-actions-app-development",
-    
-    "relUrl": "/schedule/#week-10-github-actions-app-development"
-  },"53": {
-    "doc": "Schedule and Calendar",
-    "title": "Week 11 - APIs &amp; Frontend, Ansible",
-    "content": "Nov 12 APIs &amp; Frontend Lecture 18 Nov 14 Deployment: Ansible Lecture 19 ",
-    "url": "/schedule/#week-11-apis-frontend-ansible",
-    
-    "relUrl": "/schedule/#week-11-apis-frontend-ansible"
-  },"54": {
-    "doc": "Schedule and Calendar",
-    "title": "Week 12 - Scaling Kubernetes, CI CD",
-    "content": "Nov 19 Scaling: Kubernetes Lecture 20 M4 due 11/19 . Nov 21 Final: CI/CD releases Lecture 21 ",
-    "url": "/schedule/#week-12-scaling-kubernetes-ci-cd",
-    
-    "relUrl": "/schedule/#week-12-scaling-kubernetes-ci-cd"
-  },"55": {
-    "doc": "Schedule and Calendar",
-    "title": "Week 13 - Thanksgiving",
-    "content": "Nov 26 Thanksgiving Week Nov 28 Thanksgiving Week ",
-    "url": "/schedule/#week-13-thanksgiving",
-    
-    "relUrl": "/schedule/#week-13-thanksgiving"
-  },"56": {
-    "doc": "Schedule and Calendar",
-    "title": "Week 14 -  Projects",
-    "content": "Dec 3 Project HW3 due 12/02 . ",
-    "url": "/schedule/#week-14-projects",
-    
-    "relUrl": "/schedule/#week-14-projects"
-  },"57": {
-    "doc": "Schedule and Calendar",
-    "title": "Week 15 - Projects",
-    "content": "Dec 9 Project Showcase Dec 11 Project Deliverables Due M 5 due 12/11 . Setup &amp; Installation . Refer to the setup and installation document for a full list of softwares and tools we will be using in this class . Policy on Usage of Publicly Available Class Material . | Permitted Use: Class Material is made available primarily for the educational benefit of enrolled students and may be used by others for personal educational purposes only. | Prohibited Use: . | Selling or commercializing any part of the Class Material. | Sharing, distributing, or publishing any part of the Class Material in any form or through any medium without explicit permission from the instructor. | Modifying or altering the Class Material to create derivative works. | . | Attribution: Any permitted use of the Class Material must carry appropriate acknowledgment of the source (e.g., the instructor’s name, course title, and institution). | Enforcement: Failure to comply with this policy may result in legal action and/or disciplinary measures as applicable. | . Consent: . By accessing and using the Class Material, you indicate your acknowledgment and acceptance of this policy. ",
-    "url": "/schedule/#week-15-projects",
-    
-    "relUrl": "/schedule/#week-15-projects"
-  },"58": {
+  },"41": {
     "doc": "Staff / Contact",
     "title": "Staff",
     "content": " ",
     "url": "/staff/#staff",
     
     "relUrl": "/staff/#staff"
-  },"59": {
+  },"42": {
     "doc": "Staff / Contact",
     "title": "Instructor",
-    "content": "Pavlos Protopapas . https://www.stellardnn.org/ . Ignacio Becker . ",
+    "content": "Pavlos Protopapas . https://www.stellardnn.org/ . Shivas Jayaram . ",
     "url": "/staff/#instructor",
     
     "relUrl": "/staff/#instructor"
-  },"60": {
-    "doc": "Staff / Contact",
-    "title": "Course Staff",
-    "content": "Rashmi Banthia . Octavian Balatel . Chris Gumb . Javier Machin . Li Yao . Luis Ribeiro . Patrick Ohiomoba . Shivas Jayaram . Yasmine Morrison . ",
-    "url": "/staff/#course-staff",
-    
-    "relUrl": "/staff/#course-staff"
-  },"61": {
+  },"43": {
     "doc": "Staff / Contact",
     "title": "Contact",
-    "content": "For administrative or logistical questions, please e-mail class Helpline at ac215.2024@gmail.com . ",
+    "content": "For administrative or logistical questions, please e-mail class Helpline at e115spring2025@gmail.com . ",
     "url": "/staff/#contact",
     
     "relUrl": "/staff/#contact"
-  },"62": {
+  },"44": {
     "doc": "Staff / Contact",
     "title": "Office Hours",
     "content": "(See Ed) . ",
     "url": "/staff/#office-hours",
     
     "relUrl": "/staff/#office-hours"
-  },"63": {
+  },"45": {
     "doc": "Staff / Contact",
     "title": "Staff / Contact",
     "content": " ",
     "url": "/staff/",
     
     "relUrl": "/staff/"
-  },"64": {
+  },"46": {
     "doc": "Tutorials / Demo",
     "title": "In Class Tutorials / Demos for GCP (and AWS)",
     "content": " ",
     "url": "/tutorials_demo/#in-class-tutorials--demos-for-gcp-and-aws",
     
     "relUrl": "/tutorials_demo/#in-class-tutorials--demos-for-gcp-and-aws"
-  },"65": {
+  },"47": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 1: Create Simple Translate App - No Docker, No Pipenv",
     "content": ". | Lecture: L02 | Description: A simple translation app built without using Docker or Pipenv. | GCP GitHub URL: Install App on VM Manually (T1) | AWS GitHub URL: Install App on VM Manually (T1) - AWS | . ",
     "url": "/tutorials_demo/#tutorial-1-create-simple-translate-app---no-docker-no-pipenv",
     
     "relUrl": "/tutorials_demo/#tutorial-1-create-simple-translate-app---no-docker-no-pipenv"
-  },"66": {
+  },"48": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 2: Create Simple Translate App with Pipenv, No Docker",
     "content": ". | Lecture: L02 | Description: A translation app using Pipenv, without Docker. | GCP GitHub URL: Install App on VM using Pipenv (T2) | AWS GitHub URL: Install App on VM using Pipenv (T2) - AWS | . ",
     "url": "/tutorials_demo/#tutorial-2-create-simple-translate-app-with-pipenv-no-docker",
     
     "relUrl": "/tutorials_demo/#tutorial-2-create-simple-translate-app-with-pipenv-no-docker"
-  },"67": {
+  },"49": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 3: Create Simple Translate App with Docker, Push Image to Docker Hub",
     "content": ". | Lecture: L03 | Description: Build a simple translation app, containerize it with Docker, and push the image to Docker Hub. | GCP GitHub URL: Develop App using Containers (T3) | AWS GitHub URL: Develop App using Containers (T3) - AWS | . ",
     "url": "/tutorials_demo/#tutorial-3-create-simple-translate-app-with-docker-push-image-to-docker-hub",
     
     "relUrl": "/tutorials_demo/#tutorial-3-create-simple-translate-app-with-docker-push-image-to-docker-hub"
-  },"68": {
+  },"50": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 4: Run App in VM using Docker",
     "content": ". | Lecture: L03 | Description: A continuation of the Docker tutorial, running the containerized app in a VM. | GCP GitHub URL: Run App on VM using Docker (T4) | AWS GitHub URL: Run App on VM using Docker (T4) - AWS | . ",
     "url": "/tutorials_demo/#tutorial-4-run-app-in-vm-using-docker",
     
     "relUrl": "/tutorials_demo/#tutorial-4-run-app-in-vm-using-docker"
-  },"69": {
+  },"51": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 5: Mega Pipeline App",
     "content": ". | Lecture: L04 | Description: Build a Mega Pipeline App. | GCP GitHub URL: Mega Pipeline App | AWS GitHub URL: Work in Progress (WIP) | . ",
     "url": "/tutorials_demo/#tutorial-5-mega-pipeline-app",
     
     "relUrl": "/tutorials_demo/#tutorial-5-mega-pipeline-app"
-  },"70": {
+  },"52": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 5B: Mega Pipeline App with Flexible Workflow",
     "content": ". | Lecture: L05 | Description: Build a Mega Pipeline App with Flexible Workflow. | GCP GitHub URL: Mega Pipeline App (Flexible Workflow) | . ",
     "url": "/tutorials_demo/#tutorial-5b-mega-pipeline-app-with-flexible-workflow",
     
     "relUrl": "/tutorials_demo/#tutorial-5b-mega-pipeline-app-with-flexible-workflow"
-  },"71": {
+  },"53": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 6: Label Studio",
     "content": ". | Lecture: L06 | Description: Learn how to use Label Studio for data labeling. | GitHub URL: Label Studio [GCP and AWS] | . ",
     "url": "/tutorials_demo/#tutorial-6-label-studio",
     
     "relUrl": "/tutorials_demo/#tutorial-6-label-studio"
-  },"72": {
+  },"54": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 7: Data Versioning",
     "content": ". | Lecture: L06 | Description: Learn about versioning practices in development. Particularly, how to use DVC for data versioning. | GCP GitHub URL: DVC | . ",
     "url": "/tutorials_demo/#tutorial-7-data-versioning",
     
     "relUrl": "/tutorials_demo/#tutorial-7-data-versioning"
-  },"73": {
+  },"55": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 8: LLM-RAG",
     "content": ". | Lecture: L08 | Description: Building a RAG System with Vector DB and LLM | GCP GitHub URL: LLM-1 | . ",
     "url": "/tutorials_demo/#tutorial-8-llm-rag",
     
     "relUrl": "/tutorials_demo/#tutorial-8-llm-rag"
-  },"74": {
+  },"56": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 9: LLM-Agents",
     "content": ". | Lecture: L08 | Description: LLM Agents with Phidata (Notebook) | Colab Notebook: LLM-Agents | . ",
     "url": "/tutorials_demo/#tutorial-9-llm-agents",
     
     "relUrl": "/tutorials_demo/#tutorial-9-llm-agents"
-  },"75": {
+  },"57": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 10: LLM-Agents",
     "content": ". | Lecture: L08 | Description: LLM Agents | GCP GitHub URL: LLM-Agents | . ",
     "url": "/tutorials_demo/#tutorial-10-llm-agents",
     
     "relUrl": "/tutorials_demo/#tutorial-10-llm-agents"
-  },"76": {
+  },"58": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 11: LLM-Fine Tuning",
     "content": ". | Lecture: L09 | Description: LLM Fine Tuning using PEFT | GCP GitHub URL: LLM Fine Tuning | . ",
     "url": "/tutorials_demo/#tutorial-11-llm-fine-tuning",
     
     "relUrl": "/tutorials_demo/#tutorial-11-llm-fine-tuning"
-  },"77": {
+  },"59": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 12: Model Compression and Distillation",
     "content": ". | Lecture: L11 | Description: Model Compression and Distillation | Colab Notebook: Model Compression and Distillation | . ",
     "url": "/tutorials_demo/#tutorial-12-model-compression-and-distillation",
     
     "relUrl": "/tutorials_demo/#tutorial-12-model-compression-and-distillation"
-  },"78": {
+  },"60": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 13: Experiment Tracking",
     "content": ". | Lecture: L12 | Description: Classification Model, Experiment Tracking Colab Notebook A: Cheese Classification Models Colab Notebook B: Experiment Tracking with WANDB | . ",
     "url": "/tutorials_demo/#tutorial-13-experiment-tracking",
     
     "relUrl": "/tutorials_demo/#tutorial-13-experiment-tracking"
-  },"79": {
+  },"61": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 14: Advanced Workflow: Serveless Model Training with Vertex AI",
     "content": ". | Lecture: L12 | Description: Serveless Model Training with Vertex AI | GCP GitHub URL: Serverless Model Training | . ",
     "url": "/tutorials_demo/#tutorial-14-advanced-workflow-serveless-model-training-with-vertex-ai",
     
     "relUrl": "/tutorials_demo/#tutorial-14-advanced-workflow-serveless-model-training-with-vertex-ai"
-  },"80": {
+  },"62": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 15: Cloud Function and Cloud Run",
     "content": ". | Lecture: L13 | Description: Cloud Function and Cloud Run | GCP GitHub URL: Cloud Function, Cloud Run | . ",
     "url": "/tutorials_demo/#tutorial-15-cloud-function-and-cloud-run",
     
     "relUrl": "/tutorials_demo/#tutorial-15-cloud-function-and-cloud-run"
-  },"81": {
+  },"63": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 16: Model Deployment using Vertex AI",
     "content": ". | Lecture: L15 | Description: Model Deployment using Vertex AI | GCP GitHub URL: Model Deployment | . ",
     "url": "/tutorials_demo/#tutorial-16-model-deployment-using-vertex-ai",
     
     "relUrl": "/tutorials_demo/#tutorial-16-model-deployment-using-vertex-ai"
-  },"82": {
+  },"64": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 17: ML Workflow",
-    "content": ". | Lecture: L15 | Description: Vertex AI ML Workflow for pipeline. Data Processing, data collection, model training, model deployment. | GCP GitHub URL: ML Workflow | . ",
+    "content": ". | Lecture: L14 | Description: Vertex AI ML Workflow for pipeline. Data Processing, data collection, model training, model deployment. | GCP GitHub URL: ML Workflow | . ",
     "url": "/tutorials_demo/#tutorial-17-ml-workflow",
     
     "relUrl": "/tutorials_demo/#tutorial-17-ml-workflow"
-  },"83": {
+  },"65": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 18: Deploy LLM on VM",
     "content": ". | Lecture: - | Description: Deploy your own LLM on VM. These are the steps to deploy a LLM on VM with all the scripts and code. | GCP GitHub URL: LLM on VM | . ",
     "url": "/tutorials_demo/#tutorial-18-deploy-llm-on-vm",
     
     "relUrl": "/tutorials_demo/#tutorial-18-deploy-llm-on-vm"
-  },"84": {
+  },"66": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 19: CI/CD with GitHub Actions and other tools",
-    "content": ". | Lecture: L16 | Description: Simple CI | GCP GitHub URL: Simple CI | . ",
+    "content": ". | Lecture: L18 | Description: Simple CI | GCP GitHub URL: Simple CI | . ",
     "url": "/tutorials_demo/#tutorial-19-cicd-with-github-actions-and-other-tools",
     
     "relUrl": "/tutorials_demo/#tutorial-19-cicd-with-github-actions-and-other-tools"
-  },"85": {
+  },"67": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 20: LLM Finetuning Hooks",
-    "content": ". | Lecture: L16 | Description: LLM Finetuning Hooks A | GCP GitHub URL: LLM Finetuning Hooks | . ",
+    "content": ". | Lecture: L18 | Description: LLM Finetuning Hooks A | GCP GitHub URL: LLM Finetuning Hooks | . ",
     "url": "/tutorials_demo/#tutorial-20-llm-finetuning-hooks",
     
     "relUrl": "/tutorials_demo/#tutorial-20-llm-finetuning-hooks"
-  },"86": {
+  },"68": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 21: LLM Finetuning Hooks",
-    "content": ". | Lecture: L16 | Description: LLM Finetuning Hooks B | GCP GitHub URL: LLM Finetuning Hooks | . ",
+    "content": ". | Lecture: L19 | Description: LLM Finetuning Hooks B | GCP GitHub URL: LLM Finetuning Hooks | . ",
     "url": "/tutorials_demo/#tutorial-21-llm-finetuning-hooks",
     
     "relUrl": "/tutorials_demo/#tutorial-21-llm-finetuning-hooks"
-  },"87": {
+  },"69": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 22: Frontend and FastAPI",
-    "content": ". | Lecture: L17 | Description: Simple Frontend with FastAPI | GCP GitHub URL: App v1 | . ",
+    "content": ". | Lecture: L15 | Description: Simple Frontend with FastAPI | GCP GitHub URL: App v1 | . ",
     "url": "/tutorials_demo/#tutorial-22-frontend-and-fastapi",
     
     "relUrl": "/tutorials_demo/#tutorial-22-frontend-and-fastapi"
-  },"88": {
+  },"70": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 23: Backend and FastAPI",
-    "content": ". | Lecture: L18 | Description: Cheese App APIs | GCP GitHub URL: App v2: FastAPI Backend | . ",
+    "content": ". | Lecture: L16 | Description: Cheese App APIs | GCP GitHub URL: App v2: FastAPI Backend | . ",
     "url": "/tutorials_demo/#tutorial-23-backend-and-fastapi",
     
     "relUrl": "/tutorials_demo/#tutorial-23-backend-and-fastapi"
-  },"89": {
+  },"71": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 24: Frontend Simple",
-    "content": ". | Lecture: L18 | Description: Frontend Simple | GCP GitHub URL: App v2: Frontend Simple | . ",
+    "content": ". | Lecture: L17 | Description: Frontend Simple | GCP GitHub URL: App v2: Frontend Simple | . ",
     "url": "/tutorials_demo/#tutorial-24-frontend-simple",
     
     "relUrl": "/tutorials_demo/#tutorial-24-frontend-simple"
-  },"90": {
+  },"72": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 25: Frontend React",
-    "content": ". | Lecture: L18 | Description: Frontend App (React) | GCP GitHub URL: App v2: Frontend React | . ",
+    "content": ". | Lecture: L17 | Description: Frontend App (React) | GCP GitHub URL: App v2: Frontend React | . ",
     "url": "/tutorials_demo/#tutorial-25-frontend-react",
     
     "relUrl": "/tutorials_demo/#tutorial-25-frontend-react"
-  },"91": {
+  },"73": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 26: Deployment of the full app to GCP",
-    "content": ". | Lecture: L19 | Description: Deployment to GCP using Ansible. Manual steps to deploy the app to GCP and automate using Ansible. | GCP GitHub URL: App v3: Deployment to GCP | . ",
+    "content": ". | Lecture: L20 | Description: Deployment to GCP using Ansible. Manual steps to deploy the app to GCP and automate using Ansible. | GCP GitHub URL: App v3: Deployment to GCP | . ",
     "url": "/tutorials_demo/#tutorial-26-deployment-of-the-full-app-to-gcp",
     
     "relUrl": "/tutorials_demo/#tutorial-26-deployment-of-the-full-app-to-gcp"
-  },"92": {
+  },"74": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 27: Deployment with Scaling using Kubernetes",
-    "content": ". | Lecture: L20 | Description: Deployment with Scaling using Kubernetes | GCP GitHub URL: App v3: Deployment with Scaling using Kubernetes | . ",
+    "content": ". | Lecture: L21 | Description: Deployment with Scaling using Kubernetes | GCP GitHub URL: App v3: Deployment with Scaling using Kubernetes | . ",
     "url": "/tutorials_demo/#tutorial-27-deployment-with-scaling-using-kubernetes",
     
     "relUrl": "/tutorials_demo/#tutorial-27-deployment-with-scaling-using-kubernetes"
-  },"93": {
+  },"75": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 28: Continuous Integration and Continuous Deployment",
-    "content": ". | Lecture: L21 | Description: Continuous Integration and Continuous Deployment | GCP GitHub URL: App v4: Continuous Integration and Continuous Deployment | AWS GitHub URL: No K8s App: AWS - Continuous Integration and Continuous Deployment | . ",
+    "content": ". | Lecture: L22 | Description: Continuous Integration and Continuous Deployment | GCP GitHub URL: App v4: Continuous Integration and Continuous Deployment | AWS GitHub URL: No K8s App: AWS - Continuous Integration and Continuous Deployment | . ",
     "url": "/tutorials_demo/#tutorial-28-continuous-integration-and-continuous-deployment",
     
     "relUrl": "/tutorials_demo/#tutorial-28-continuous-integration-and-continuous-deployment"
-  },"94": {
+  },"76": {
     "doc": "Tutorials / Demo",
     "title": "Tutorials / Demo",
     "content": " ",

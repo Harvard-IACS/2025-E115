@@ -8,14 +8,12 @@ nav_order: 5
 # Milestone 5: Final Project Delivery
 **Due Date:**  May 10
 
-<!-- **Showcase:** December 9th, 9:00–11:00 AM -->
 
 ---
 ## Overview
 The final milestone focuses on three key areas:
 1. Production-ready deployment with Kubernetes and Ansible.
 2. Project demonstration and documentation.
-<!-- 3. Public communication of results through a live showcase. -->
 
 ---
 
@@ -38,6 +36,24 @@ The final milestone focuses on three key areas:
     - Data preprocessing, model training, and evaluation steps integrated into the pipeline.
     - Automated retraining and deployment triggered by new data or updates to the codebase.
     - Validation checks to ensure only models meeting performance thresholds are deployed.
+
+- **Continuous Integration Setup:**
+   - A functioning CI pipeline that runs on every push or merge.
+   - **Pipeline Must Include:**
+     - **Code Build and Linting:** Automated build process and code quality checks using linting tools (e.g., ESLint, Flake8) running on GitHub Actions.
+     - **Automated Testing:** Execution of unit, integration and systems tests with test results reported.
+- **Automated Testing Implementation:**
+   - Integration of automated tests within the CI pipeline using GitHub Actions.
+   - **Should Include:**
+     - **Unit Tests:** For individual components and functions.
+     - **Integration Tests:** For integrating multiple components.
+     - **System Tests:** Covering user flows and interactions.
+     - **Test Coverage Reports:** Integrated into the CI pipeline to monitor code coverage to be at least 50%.
+- **Test Documentation:**
+   - Detailed explanations of the testing strategy and implemented tests.
+   - **Should Include:**
+     - **Testing Tools Used:** (e.g. PyTest)
+     - **Instructions to Run Tests Manually:** For developers to replicate test results locally.
 
 
 ### 2. Documentation
