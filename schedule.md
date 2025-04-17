@@ -38,7 +38,7 @@ Overall schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2P
 | Lecture 16     | 4/8   | APIs | [View](https://drive.google.com/file/d/1WtQi2dcWZrQYwTR4K9Ey0l1bBubi8mIu/view?usp=drive_link) |
 | Lecture 17     | 4/10  | Frontend | [View](https://drive.google.com/file/d/1UOfjuJBHRYQ6YFwmIfnEkmzearCJ4XRz/view?usp=drive_link) |
 | Lecture 18     | 4/15  | Automating Software Development: CI/CD with GitHub Actions and other tools I | [View](https://drive.google.com/file/d/1sx6qZ1MJk2vh7LrKkTGjvsBNk-JbHl0SLxH24RvGdV0/view?usp=drive_link) |
-| Lecture 19     | 4/17  | Automating Software Development: CI/CD with GitHub Actions and other tools II | [View](https://drive.google.com/file/d/1l2SMuD7cjuIyPvg2ZRnn8BYsbG7_QrsH/view?usp=drive_link) |
+| Lecture 19     | 4/17  | Automating Software Development: CI/CD with GitHub Actions and other tools II | [View](https://drive.google.com/file/d/1uFuxseTmaBIbBR5NE_sbZSn63eK_L6eGzHhcAvJqQAk/view?usp=drive_link) |
 | Lecture 20     | 4/22  | Deployment: Ansible | [View](https://drive.google.com/file/d/1rHohBf1XpOIjb6ot5tZu-pZq2Fhxlv_f/view?usp=drive_link) |
 | Lecture 21     | 4/24  | Scaling: Kubernetes | [View](https://drive.google.com/file/d/1DsifYZV4eUEey_XCOpa5m1mVKBL6ED_Q/view?usp=drive_link) |
 | Lecture 22     | 4/29  | Final deployment and review | [View](https://drive.google.com/file/d/1b95V-O02EmJRf3cn52QU6Wl8QCcin03h/view?usp=drive_link) |
