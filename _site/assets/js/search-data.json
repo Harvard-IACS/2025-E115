@@ -462,75 +462,82 @@
     "relUrl": "/tutorials_demo/#tutorial-18-deploy-llm-on-vm"
   },"66": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 19: CI/CD with GitHub Actions and other tools",
-    "content": ". | Lecture: L18 | Description: Simple CI | GCP GitHub URL: Simple CI | . ",
-    "url": "/tutorials_demo/#tutorial-19-cicd-with-github-actions-and-other-tools",
+    "title": "Tutorial 19: Frontend and FastAPI",
+    "content": ". | Lecture: L15 | Description: Simple Frontend with FastAPI | GCP GitHub URL: App v1 | . ",
+    "url": "/tutorials_demo/#tutorial-19-frontend-and-fastapi",
     
-    "relUrl": "/tutorials_demo/#tutorial-19-cicd-with-github-actions-and-other-tools"
+    "relUrl": "/tutorials_demo/#tutorial-19-frontend-and-fastapi"
   },"67": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 20: LLM Finetuning Hooks",
-    "content": ". | Lecture: L18 | Description: LLM Finetuning Hooks A | GCP GitHub URL: LLM Finetuning Hooks | . ",
-    "url": "/tutorials_demo/#tutorial-20-llm-finetuning-hooks",
+    "title": "Tutorial 20: Backend and FastAPI",
+    "content": ". | Lecture: L16 | Description: Cheese App APIs | GCP GitHub URL: App v2: FastAPI Backend | . ",
+    "url": "/tutorials_demo/#tutorial-20-backend-and-fastapi",
     
-    "relUrl": "/tutorials_demo/#tutorial-20-llm-finetuning-hooks"
+    "relUrl": "/tutorials_demo/#tutorial-20-backend-and-fastapi"
   },"68": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 21: LLM Finetuning Hooks",
-    "content": ". | Lecture: L19 | Description: LLM Finetuning Hooks B | GCP GitHub URL: LLM Finetuning Hooks | . ",
-    "url": "/tutorials_demo/#tutorial-21-llm-finetuning-hooks",
+    "title": "Tutorial 21: Frontend Simple",
+    "content": ". | Lecture: L17 | Description: Frontend Simple | GCP GitHub URL: App v2: Frontend Simple | . ",
+    "url": "/tutorials_demo/#tutorial-21-frontend-simple",
     
-    "relUrl": "/tutorials_demo/#tutorial-21-llm-finetuning-hooks"
+    "relUrl": "/tutorials_demo/#tutorial-21-frontend-simple"
   },"69": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 22: Frontend and FastAPI",
-    "content": ". | Lecture: L15 | Description: Simple Frontend with FastAPI | GCP GitHub URL: App v1 | . ",
-    "url": "/tutorials_demo/#tutorial-22-frontend-and-fastapi",
+    "title": "Tutorial 22: Frontend React",
+    "content": ". | Lecture: L17 | Description: Frontend App (React) | GCP GitHub URL: App v2: Frontend React | . ",
+    "url": "/tutorials_demo/#tutorial-22-frontend-react",
     
-    "relUrl": "/tutorials_demo/#tutorial-22-frontend-and-fastapi"
+    "relUrl": "/tutorials_demo/#tutorial-22-frontend-react"
   },"70": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 23: Backend and FastAPI",
-    "content": ". | Lecture: L16 | Description: Cheese App APIs | GCP GitHub URL: App v2: FastAPI Backend | . ",
-    "url": "/tutorials_demo/#tutorial-23-backend-and-fastapi",
+    "title": "Tutorial 23: LLM Finetuning Hooks",
+    "content": ". | Lecture: L18 | Description: LLM Finetuning Hooks A | GCP GitHub URL: LLM Finetuning Hooks | . ",
+    "url": "/tutorials_demo/#tutorial-23-llm-finetuning-hooks",
     
-    "relUrl": "/tutorials_demo/#tutorial-23-backend-and-fastapi"
+    "relUrl": "/tutorials_demo/#tutorial-23-llm-finetuning-hooks"
   },"71": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 24: Frontend Simple",
-    "content": ". | Lecture: L17 | Description: Frontend Simple | GCP GitHub URL: App v2: Frontend Simple | . ",
-    "url": "/tutorials_demo/#tutorial-24-frontend-simple",
+    "title": "Tutorial 24: LLM Finetuning Hooks",
+    "content": ". | Lecture: L18 | Description: LLM Finetuning Hooks B | GCP GitHub URL: LLM Finetuning Hooks | . ",
+    "url": "/tutorials_demo/#tutorial-24-llm-finetuning-hooks",
     
-    "relUrl": "/tutorials_demo/#tutorial-24-frontend-simple"
+    "relUrl": "/tutorials_demo/#tutorial-24-llm-finetuning-hooks"
   },"72": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 25: Frontend React",
-    "content": ". | Lecture: L17 | Description: Frontend App (React) | GCP GitHub URL: App v2: Frontend React | . ",
-    "url": "/tutorials_demo/#tutorial-25-frontend-react",
+    "title": "Tutorial 25: Serverside Hooks",
+    "content": ". | Lecture: L18 | Description: Serverside hooks | GCP GitHub URL: Server side hooks | . ",
+    "url": "/tutorials_demo/#tutorial-25-serverside-hooks",
     
-    "relUrl": "/tutorials_demo/#tutorial-25-frontend-react"
+    "relUrl": "/tutorials_demo/#tutorial-25-serverside-hooks"
   },"73": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 26: Deployment of the full app to GCP",
-    "content": ". | Lecture: L20 | Description: Deployment to GCP using Ansible. Manual steps to deploy the app to GCP and automate using Ansible. | GCP GitHub URL: App v3: Deployment to GCP | . ",
-    "url": "/tutorials_demo/#tutorial-26-deployment-of-the-full-app-to-gcp",
+    "title": "Tutorial 26: Pytest CI",
+    "content": ". | Lecture: L19 | Description: Pytest CI, Integration CI | GCP GitHub URL: Pytest, Pytest CI, Integration CI | . ",
+    "url": "/tutorials_demo/#tutorial-26-pytest-ci",
     
-    "relUrl": "/tutorials_demo/#tutorial-26-deployment-of-the-full-app-to-gcp"
+    "relUrl": "/tutorials_demo/#tutorial-26-pytest-ci"
   },"74": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 27: Deployment with Scaling using Kubernetes",
-    "content": ". | Lecture: L21 | Description: Deployment with Scaling using Kubernetes | GCP GitHub URL: App v3: Deployment with Scaling using Kubernetes | . ",
-    "url": "/tutorials_demo/#tutorial-27-deployment-with-scaling-using-kubernetes",
+    "title": "Tutorial 27: Deployment of the full app to GCP",
+    "content": ". | Lecture: L20 | Description: Deployment to GCP using Ansible. Manual steps to deploy the app to GCP and automate using Ansible. | GCP GitHub URL: App v3: Deployment to GCP | . ",
+    "url": "/tutorials_demo/#tutorial-27-deployment-of-the-full-app-to-gcp",
     
-    "relUrl": "/tutorials_demo/#tutorial-27-deployment-with-scaling-using-kubernetes"
+    "relUrl": "/tutorials_demo/#tutorial-27-deployment-of-the-full-app-to-gcp"
   },"75": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 28: Continuous Integration and Continuous Deployment",
-    "content": ". | Lecture: L22 | Description: Continuous Integration and Continuous Deployment | GCP GitHub URL: App v4: Continuous Integration and Continuous Deployment | AWS GitHub URL: No K8s App: AWS - Continuous Integration and Continuous Deployment | . ",
-    "url": "/tutorials_demo/#tutorial-28-continuous-integration-and-continuous-deployment",
+    "title": "Tutorial 28: Deployment with Scaling using Kubernetes",
+    "content": ". | Lecture: L21 | Description: Deployment with Scaling using Kubernetes | GCP GitHub URL: App v3: Deployment with Scaling using Kubernetes | . ",
+    "url": "/tutorials_demo/#tutorial-28-deployment-with-scaling-using-kubernetes",
     
-    "relUrl": "/tutorials_demo/#tutorial-28-continuous-integration-and-continuous-deployment"
+    "relUrl": "/tutorials_demo/#tutorial-28-deployment-with-scaling-using-kubernetes"
   },"76": {
+    "doc": "Tutorials / Demo",
+    "title": "Tutorial 29: Continuous Integration and Continuous Deployment",
+    "content": ". | Lecture: L22 | Description: Continuous Integration and Continuous Deployment | GCP GitHub URL: App v4: Continuous Integration and Continuous Deployment | AWS GitHub URL: No K8s App: AWS - Continuous Integration and Continuous Deployment | . ",
+    "url": "/tutorials_demo/#tutorial-29-continuous-integration-and-continuous-deployment",
+    
+    "relUrl": "/tutorials_demo/#tutorial-29-continuous-integration-and-continuous-deployment"
+  },"77": {
     "doc": "Tutorials / Demo",
     "title": "Tutorials / Demo",
     "content": " ",

@@ -135,62 +135,70 @@ nav_order: 2
 - **Description**:  Deploy your own LLM on VM. These are the steps to deploy a LLM on VM with all the scripts and code.
 - **GCP GitHub URL**: [LLM on VM](https://github.com/dlops-io/llm-vm)
 
-## Tutorial 19: CI/CD with GitHub Actions and other tools
-- **Lecture**: [L18](../schedule/)
-- **Description**: Simple CI
-- **GCP GitHub URL**: [Simple CI](https://github.com/dlops-io/simple_CI)
 
-
-## Tutorial 20: LLM Finetuning Hooks
-
-- **Lecture**: [L18](../schedule/)
-- **Description**:  LLM Finetuning Hooks A
-- **GCP GitHub URL**: [LLM Finetuning Hooks](https://github.com/dlops-io/llm-finetuning_hooksA)
-
-## Tutorial 21: LLM Finetuning Hooks
-
-- **Lecture**: [L19](../schedule/)
-- **Description**:  LLM Finetuning Hooks B
-- **GCP GitHub URL**: [LLM Finetuning Hooks](https://github.com/dlops-io/llm-finetuning_hooksB)
-
-
-## Tutorial 22: Frontend and FastAPI
+## Tutorial 19: Frontend and FastAPI
 - **Lecture**: [L15](../schedule/)
 - **Description**: Simple Frontend with FastAPI
 - **GCP GitHub URL**: [App v1](https://github.com/dlops-io/cheese-app-v1)
 
 
-## Tutorial 23: Backend and FastAPI
+## Tutorial 20: Backend and FastAPI
 - **Lecture**: [L16](../schedule/)
 - **Description**: Cheese App APIs
 - **GCP GitHub URL**: [App v2: FastAPI Backend](https://github.com/dlops-io/cheese-app-v2?tab=readme-ov-file#setup-environments)
 
 
-## Tutorial 24: Frontend Simple
+## Tutorial 21: Frontend Simple
 - **Lecture**: [L17](../schedule/)
 - **Description**: Frontend Simple
 - **GCP GitHub URL**: [App v2: Frontend Simple](https://github.com/dlops-io/cheese-app-v2?tab=readme-ov-file#tutorial-24-simple-frontend-app)
 
 
-## Tutorial 25: Frontend React
+## Tutorial 22: Frontend React
 - **Lecture**: [L17](../schedule/)
 - **Description**: Frontend App (React)
 - **GCP GitHub URL**: [App v2: Frontend React](https://github.com/dlops-io/cheese-app-v2?tab=readme-ov-file#tutorial-25-react-frontend-setup)
 
 
-## Tutorial 26: Deployment of the full app to GCP
+## Tutorial 23: LLM Finetuning Hooks
+
+- **Lecture**: [L18](../schedule/)
+- **Description**:  LLM Finetuning Hooks A
+- **GCP GitHub URL**: [LLM Finetuning Hooks](https://github.com/dlops-io/llm-finetuning_hooksA)
+
+
+## Tutorial 24: LLM Finetuning Hooks
+
+- **Lecture**: [L18](../schedule/)
+- **Description**:  LLM Finetuning Hooks B
+- **GCP GitHub URL**: [LLM Finetuning Hooks](https://github.com/dlops-io/llm-finetuning_hooksB)
+
+## Tutorial 25: Serverside Hooks
+- **Lecture**: [L18](../schedule/)
+- **Description**: Serverside hooks
+- **GCP GitHub URL**: [Server side hooks](https://github.com/dlops-io/serverside_hook)
+
+## Tutorial 26: Pytest CI
+- **Lecture**: [L19](../schedule/)
+- **Description**: Pytest CI, Integration CI
+- **GCP GitHub URL**: [Pytest](https://github.com/dlops-io/pytest), 
+[Pytest CI](https://github.com/dlops-io/pytest-CI), 
+[Integration CI](https://github.com/dlops-io/integration-CI)
+
+
+## Tutorial 27: Deployment of the full app to GCP
 - **Lecture**: [L20](../schedule/)
 - **Description**: Deployment to GCP using Ansible. Manual steps to deploy the app to GCP and automate using Ansible.
 - **GCP GitHub URL**: [App v3: Deployment to GCP](https://github.com/dlops-io/cheese-app-v3?tab=readme-ov-file#deployment-to-gcp)
 
 
-## Tutorial 27: Deployment with Scaling using Kubernetes
+## Tutorial 28: Deployment with Scaling using Kubernetes
 - **Lecture**: [L21](../schedule/)
 - **Description**: Deployment with Scaling using Kubernetes
 - **GCP GitHub URL**: [App v3: Deployment with Scaling using Kubernetes](https://github.com/dlops-io/cheese-app-v3?tab=readme-ov-file#deployment-with-scaling-using-kubernetes)
 
 
-## Tutorial 28: Continuous Integration and Continuous Deployment
+## Tutorial 29: Continuous Integration and Continuous Deployment
 - **Lecture**: [L22](../schedule/)
 - **Description**: Continuous Integration and Continuous Deployment
 - **GCP GitHub URL**: [App v4: Continuous Integration and Continuous Deployment](https://github.com/dlops-io/cheese-app-v4#cheese-app---automation)
