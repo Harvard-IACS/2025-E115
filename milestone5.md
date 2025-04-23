@@ -69,7 +69,7 @@ The final milestone focuses on three key areas:
 
 
 ### 3. Presentation Materials
-- **Live Presentation - May 8th 6:30PM**:
+- **Presentation - May 8th 6:30PM**:
   - Presentation should covering the following:
     - Problem statement and the proposed solution.
     - Technical architecture and key components.
