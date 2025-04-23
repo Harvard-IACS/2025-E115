@@ -6,7 +6,7 @@ nav_order: 5
 ---
 
 # Milestone 5: Final Project Delivery
-**Due Date:**  May 10
+**Due Date:**  Presentation May 8th 6:30PM, GitHub/Blog - May 10th 9:00PM
 
 
 ---
@@ -69,14 +69,13 @@ The final milestone focuses on three key areas:
 
 
 ### 3. Presentation Materials
-- **Video Presentation**:
-  - Record a **6-minute video** covering the following:
+- **Live Presentation - May 8th 6:30PM**:
+  - Presentation should covering the following:
     - Problem statement and the proposed solution.
     - Technical architecture and key components.
     - Live demo of the application in action.
     - Challenges faced and solutions implemented.
-  - Submit the video in **MP4 format** with a minimum resolution of 720p.
-- **Blog Post** 
+- **Blog Post - May 10th 9:00PM** 
  <!-- (See [Ed for more details](https://edstem.org/us/courses/58478/discussion/5770637))**: -->
   - Write a **600–800 word Medium blog post** summarizing your project for a general audience. The post should highlight the problem, solution, technical approach, and impact.
   - Include visuals or diagrams where appropriate.
@@ -102,7 +101,7 @@ The final milestone focuses on three key areas:
 
 
 ## Submission Instructions
-- Submit all deliverables (GitHub repository link, video file, blog post link, and self/peer review forms) via the course submission portal by **11:59 PM, December 11th**.
+- Submit all deliverables (GitHub repository link, blog post link, and self/peer review forms) via the course submission portal by **09:00 PM, May 10th**.
 - No late submissions
 
 
@@ -110,6 +109,6 @@ The final milestone focuses on three key areas:
 1. **GitHub (35%)**: Technical Depth, Content, Clarity, Coding Style
 2. **Documentation (25%)**: README and technical report are clear, complete, and easy to follow.
 <!-- 3. **Presentation and Showcase (40%)**: -->
-3. **Presentation (40%)**:
-   - Video and blog post effectively communicate the project’s value and technical details.
+3. **Presentation and Blog (40%)**:
+   - Presentation and blog post effectively communicate the project’s value and technical details.
    <!-- - Engagement during the live showcase demonstrates clarity and understanding. -->
